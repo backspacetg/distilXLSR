@@ -1,6 +1,6 @@
 Models and codes for INTERSPEECH 2023 paper DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model
 
-Working on the opensourced codes. Models will be uploaded soon.
+Models and codes will be uploaded soon.
 
 ### Some additional experiment results: 
 
