@@ -1,6 +1,5 @@
 Models and codes for INTERSPEECH 2023 paper *DistilXLSR: A Light Weight Cross-Lingual Speech Representation Model*
 
-I am removing some useless features from my codes and the codes will be uploaded in this week or next!
 
 ### Pre-trained models:
 
@@ -8,6 +7,16 @@ I am removing some useless features from my codes and the codes will be uploaded
 |--------|------|
 |DistilXLSR128|[google drive](https://drive.google.com/file/d/1eJ3zamDYFb6kDuRpR9hHYYR47yyEIXmj/view?usp=sharing)| 
 |DistilXLSR53|[google drive](https://drive.google.com/file/d/1AN-PGQ6GxNueuklpezYSry6nuAJwrym1/view?usp=sharing)|
+
+### Usage
+
+Our code are based on the [fairseq](https://github.com/facebookresearch/fairseq) toolkits. You can copy `codes` folder into `fairseq/fairseq/models` and rename it as distilxlsr (or other names) and use DistilXLSR as other fairseq models such as Wav2vec 2.0 or HuBERT. 
+
+#### Data Preparation
+
+#### Training
+
+#### Decoding
 
 ### Some additional experiment results: 
 

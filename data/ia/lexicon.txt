@@ -1,0 +1,3864 @@
+a a |
+ab a b |
+abandonate a b a n d o n a t e |
+abassar a b a s a r |
+abatteva a b a t e v a |
+abattite a b a t i t e |
+abnegation a b n e ɡ a t j o n |
+abonamento a b o n a m e n t o |
+abordar a b o r d a r |
+abortar a b o r t a r |
+absente a b s e n t e |
+absentia a b s e n t j a |
+absolutemente a b s o l u t e m e n t e |
+absorbe a b s o r b e |
+absurdo a b s u r d o |
+abunda a b u n d a |
+abuso a b u s o |
+accendeva a ts e n d e v a |
+accepta a ts e p t a |
+acceptabile a k ts e p t a b i l e |
+acceptar a ts e p t a r |
+acceptarea a ts e p t a r e a |
+acceptate a ts e p t a t e |
+acceptava a ts e p t a v a |
+accesso a ts e s o |
+accidente a ts i d e n t e |
+accompaniar a k o m p a n j a r |
+accompaniate a k o m p a n j a t e |
+accopulamento a k o p u l a m e n t o |
+accordo a k o r d o |
+accostumate a k o s t u m a t e |
+accrescera a k r e s ts e r a |
+accurate a k u r a t e |
+accuratemente a k u r a t e m e n t e |
+accusate a k u s a t e |
+accusationes a k u s a t j o n e s |
+aciero a ts j e r o |
+acquirer a k k w i r e r |
+acquirera a k k w i r e r a |
+acquisite a k k w i s i t e |
+acrobata a k r o b a t a |
+activar a k t i v a r |
+actual a k t w a l |
+actualisation a k t w a l i s a t j o n |
+actualmente a k t w a l m e n t e |
+acuitate a k w i t a t e |
+acute a k u t e |
+ad a d |
+adder a d e r |
+addera a d e r a |
+addite a d i t e |
+addormir a d o r m i r |
+addormite a d o r m i t e |
+adequate a d e k w a t e |
+adherera a d h e r e r a |
+adhereva a d h e r e v a |
+adhesivo a d h e s i v o |
+adjustar a d ʒ u s t a r |
+adjuta a d ʒ u t a |
+adjutar a d ʒ u t a r |
+adjutara a d ʒ u t a r a |
+adjutarea a d ʒ u t a r e a |
+adjutate a d ʒ u t a t e |
+adjutava a d ʒ u t a v a |
+administration a d m i n i s t r a t j o n |
+admission a d m i s j o n |
+admitteva a d m i t e v a |
+adoptate a d o p t a t e |
+adorna a d o r n a |
+adrenalina a d r e n a l i n a |
+adresse a d r e s e |
+adulterio a d u l t e r j o |
+adveniva a d v e n i v a |
+adversario a d v e r s a r j o |
+adversitate a d v e r s i t a t e |
+adverti a d v e r t i |
+advertimento a d v e r t i m e n t o |
+advocato a d v o k a t o |
+aegis a e ɡ i s |
+aere a e r e |
+aerodynamic a e r o d i n a m i k |
+aeroplano a e r o p l a n o |
+aeroplanos a e r o p l a n o s |
+aeroporto a e r o p o r t o |
+affaire a f e r |
+affamate a f a m a t e |
+affliction a f l i k t j o n |
+afghanistan a f ɡ h a n i s t a n |
+africa a f r i k a |
+age a ɡ e |
+ager a ɡ e r |
+agrada a ɡ r a d a |
+agradabile a ɡ r a d a b i l e |
+agricultor a ɡ r i k u l t o r |
+agricultura a ɡ r i k u l t u r a |
+'ah' a h |
+aharon a h a r o n |
+al a l |
+alarmante a l a r m a n t e |
+alco a l k o |
+alcohol a l k o h o l |
+alcun a l k u n |
+alcuno a l k u n o |
+aleatori a l e a t o r i |
+alerte a l e r t e |
+alexandro a l e k s a n d r o |
+alicun a l i k u n |
+alimentar a l i m e n t a r |
+alimentate a l i m e n t a t e |
+alimentation a l i m e n t a t j o n |
+alimento a l i m e n t o |
+alinear a l i n e a r |
+aliquando a l i k w a n d o |
+allegra a l e ɡ r a |
+allogiamento a l o ʒ a m e n t o |
+alora a l o r a |
+alpha a l f a |
+altar a l t a r |
+alte a l t e |
+altemente a l t e m e n t e |
+altere a l t e r e |
+alteres a l t e r e s |
+alternate a l t e r n a t e |
+alternativa a l t e r n a t i v a |
+alternative a l t e r n a t i v e |
+altero a l t e r o |
+altia a l t j a |
+altiava a l t j a v a |
+altitude a l t i t u d e |
+alto a l t o |
+aluminium a l u m i n j u m |
+ama a m a |
+amabile a m a b i l e |
+amar a m a r |
+amarea a m a r e a |
+amator a m a t o r |
+amatores a m a t o r e s |
+amava a m a v a |
+ambe a m b e |
+ambes a m b e s |
+ambiental a m b j e n t a l |
+ambiente a m b j e n t e |
+ambiguitates a m b i ɡ w i t a t e s |
+ambition a m b i t j o n |
+ambula a m b u l a |
+ambular a m b u l a r |
+ambulara a m b u l a r a |
+ambulava a m b u l a v a |
+america a m e r i k a |
+american a m e r i k a n |
+americanos a m e r i k a n o s |
+amica a m i k a |
+amico a m i k o |
+amicos a m i k o s |
+amita a m i t a |
+amonta a m o n t a |
+amor a m o r |
+ample a m p l e |
+amusante a m u s a n t e |
+amusate a m u s a t e |
+amusava a m u s a v a |
+an a n |
+ananas a n a n a s |
+ancestral a n ts e s t r a l |
+ancian a n ts j a n |
+anciano a n ts j a n o |
+ancora a n k o r a |
+android a n d r o ɪ d |
+anglaterra a ŋ ɡ l a t e r a |
+anglese a ŋ ɡ l e s e |
+anguilla a ŋ ɡ w i l a |
+angulo a n ɡ u l o |
+anima a n i m a |
+animal a n i m a l |
+animales a n i m a l e s |
+an-isotropic a n i s o t r o p i k |
+anna a n a |
+anniversario a n i v e r s a r j o |
+anno a n o |
+annos a n o s |
+anque a n k e |
+ante a n t e |
+antenna a n t e n a |
+anthropologo a n t r o p o l o ɡ o |
+anticipa a n t i ts i p a |
+antiquitate a n t i k w i t a t e |
+antonio a n t o n j o |
+anxie a n k s j e |
+anxietate a n k s j e t a t e |
+anxiose a n k s j o s e |
+aperi a p e r i |
+aperir a p e r i r |
+aperite a p e r i t e |
+aperiva a p e r i v a |
+aperte a p e r t e |
+apertura a p e r t u r a |
+apes a p e s |
+apocalypse a p o k a l i p s e |
+apparato a p a r a t o |
+apparatos a p a r a t o s |
+appare a p a r e |
+apparentemente a p a r e n t e m e n t e |
+apparentias a p a r e n t j a s |
+appareva a p a r e v a |
+appartamento a p a r t a m e n t o |
+appella a p e l a |
+appellar a p e l a r |
+appellara a p e l a r a |
+appellate a p e l a t e |
+appellava a p e l a v a |
+appendeva a p e n d e v a |
+appendice a p e n d i ts e |
+appetito a p e t i t o |
+applicate a p l i k a t e |
+application a p l i k a t j o n |
+appoiar a p o ɪ a r |
+appoiava a p o ɪ a v a |
+apportava a p o r t a v a |
+apprecia a p r e ts j a |
+apprende a p r e n d e |
+apprender a p r e n d e r |
+apprendeva a p r e n d e v a |
+apprendimento a p r e n d i m e n t o |
+apprendite a p r e n d i t e |
+approba a p r o b a |
+approbate a p r o b a t e |
+approcha a p r o tʃ a |
+appropriate a p r o p r j a t e |
+approxima a p r o k s i m a |
+approximara a p r o k s i m a r a |
+approximate a p r o k s i m a t e |
+approximation a p r o k s i m a t j o n |
+appunctamento a p u n k t a m e n t o |
+april a p r i l |
+apud a p u d |
+aqua a k w a |
+aquila a k w i l a |
+aranea a r a n e a |
+arbore a r b o r e |
+arbores a r b o r e s |
+arboretto a r b o r e t o |
+archeologos a r k e o l o ɡ o s |
+archipelagos a r k i p e l a ɡ o s |
+architecto a r tʃ i t e k t o |
+architecturas a r tʃ i t e k t u r a s |
+arctico a r k t i k o |
+area a r e a |
+areas a r e a s |
+argilla a r ɡ i l a |
+argumentation a r ɡ u m e n t a t j o n |
+aride a r i d e |
+arithmetica a r i t m e t i k a |
+armas a r m a s |
+armata a r m a t a |
+armatura a r m a t u r a |
+armea a r m e a |
+arresta a r e s t a |
+arrestar a r e s t a r |
+arrestara a r e s t a r a |
+arrestate a r e s t a t e |
+arrivar a r i v a r |
+arrivara a r i v a r a |
+arrivata a r i v a t a |
+arrivava a r i v a v a |
+arrogante a r o ɡ a n t e |
+arte a r t e |
+arthritis a r t r i t i s |
+ascendentia a s ts e n d e n t j a |
+ascolta a s k o l t a |
+ascoltar a s k o l t a r |
+ascoltate a s k o l t a t e |
+ascoltava a s k o l t a v a |
+asino a s i n o |
+aspecto a s p e k t o |
+aspectos a s p e k t o s |
+aspirator a s p i r a t o r |
+assassino a s a s i n o |
+assatis a s a t i s |
+assecura a s e k u r a |
+assecurantia a s e k u r a n t j a |
+assecurar a s e k u r a r |
+assemblea a s e m b l e a |
+assereva a s e r e v a |
+assi a s i |
+assiste a s i s t e |
+assistente a s i s t e n t e |
+assister a s i s t e r |
+assistera a s i s t e r a |
+associa a s o ts j a |
+associate a s o ts j a t e |
+astute a s t u t e |
+astutias a s t u t j a s |
+asylo a s i l o |
+asymmetric a s i m e t r i k |
+athletas a t l e t a s |
+atmosphera a t m o s f e r a |
+atrocitates a t r o ts i t a t e s |
+attaccamento a t a k a m e n t o |
+attaccava a t a k a v a |
+attacco a t a k o |
+attaccos a t a k o s |
+attacha a t a tʃ a |
+attende a t e n d e |
+attender a t e n d e r |
+attendeva a t e n d e v a |
+attentemente a t e n t e m e n t e |
+attention a t e n t j o n |
+atterrage a t e r a ʒ e |
+attinge a t i ŋ ɡ e |
+attinger a t i ŋ ɡ e r |
+attingeva a t i ŋ ɡ e v a |
+attitude a t i t u d e |
+attractiones a t r a k t j o n e s |
+attrahente a t r a h e n t e |
+attraher a t r a h e r |
+attrappa a t r a p a |
+attrappate a t r a p a t e |
+attristava a t r i s t a v a |
+audace a ʊ d a ts e |
+audi a ʊ d i |
+audiente a ʊ d j e n t e |
+audientia a ʊ d j e n t j a |
+audir a ʊ d i r |
+audite a ʊ d i t e |
+auditorio a ʊ d i t o r j o |
+audiva a ʊ d i v a |
+augmentar a ʊ ɡ m e n t a r |
+augmentate a ʊ ɡ m e n t a t e |
+aure a w r e |
+aureola a ʊ r e o l a |
+aures a w r e s |
+auro a ʊ r o |
+australia a ʊ s t r a l j a |
+auto a ʊ t o |
+autobus a ʊ t o b u s |
+autobuses a ʊ t o b u s e s |
+automatic a ʊ t o m a t i k |
+automatisate a ʊ t o m a t i s a t e |
+automobilista a ʊ t o m o b i l i s t a |
+autonomemente a ʊ t o n o m e m e n t e |
+autorisate a ʊ t o r i s a t e |
+autoritates a ʊ t o r i t a t e s |
+autos a ʊ t o s |
+avalanche a v a l a n ʃ |
+avante a v a n t e |
+avantia a v a n t j a |
+avantiar a v a n t j a r |
+ave a v e |
+aventura a v e n t u r a |
+aves a v e s |
+avion a v j o n |
+aviones a v j o n e s |
+avisate a v i s a t e |
+b b e |
+bacterio b a k t e r j o |
+badminton b a d m i n t o n |
+balancia b a l a n ts j a |
+balcon b a l k o n |
+balenas b a l e n a s |
+ballet b a l e |
+ballo b a l o |
+ballon b a l o n |
+bambu b a m b u |
+banca b a n k a |
+bancarupta b a n k a r u p t a |
+bancomat b a n k o m a t |
+bancos b a n k o s |
+bandas b a n d a s |
+bar b a r |
+barca b a r k a |
+basate b a s a t e |
+base b a s e |
+baseball b e i s b o l |
+basiava b a s j a v a |
+bassar b a s a r |
+basse b a s e |
+basso b a s o |
+basta b a s t a |
+bastante b a s t a n t e |
+bastonettos b a s t o n e t o s |
+battalia b a t a l j a |
+batte b a t e |
+batteva b a t e v a |
+battimentos b a t i m e n t o s |
+bava b a v a |
+bavaria b a v a r j a |
+beatnik b i t n i k |
+bebe b e b e |
+belle b e l e |
+beltate b e l t a t e |
+ben b e n |
+benedicite b e n e d i ts i t e |
+benes b e n e s |
+benvenita b e n v e n i t a |
+benvenite b e n v e n i t e |
+berillos b e r i l o s |
+berlin b e r l i n |
+besonia b e s o n j a |
+besonio b e s o n j o |
+beta b e t a |
+betula b e t u l a |
+bibe b i b e |
+biber b i b e r |
+bibeva b i b e v a |
+bibita b i b i t a |
+bibitas b i b i t a s |
+bibliotheca b i b l j o t e k a |
+bicyclar b i ts i k l a r |
+bicycletta b i ts i k l e t a |
+bicyclo b i ts i k l o |
+billet b i l e t |
+billetes b i l e t e s |
+billion b i l j o n |
+binari b i n a r i |
+biochimia b j o k i m i a |
+bira b i r a |
+biscuits b i s k w i t s |
+bizarre b i z a r e |
+blanc b l a n k |
+blasma b l a s m a |
+blau b l a ʊ |
+blocate b l o k a t e |
+blocava b l o k a v a |
+blocos b l o k o s |
+bluffa b l u f a |
+bon b o n |
+bonettos b o n e t o s |
+bonissime b o n i s i m e |
+bonnie b o n j e |
+bootloader b o o t l o a d e r |
+boschettos b o s tʃ e t o s |
+bosco b o s k o |
+boscos b o s k o s |
+boston b o s t o n |
+boteca b o t e k a |
+bottilia b o t i l j a |
+brachio b r a tʃ j o |
+brachios b r a tʃ j o s |
+brasa b r a s a |
+brassiere b r a s j e r e |
+breve b r e v e |
+brexit b r e k s i t |
+briccas b r i k a s |
+brillante b r i l a n t e |
+brossar b r o s a r |
+brown b r o w n |
+bruma b r u m a |
+brun b r u n |
+bucca b u k a |
+budget b a dʒ e t |
+buffones b u f o n e s |
+bufon b u f o n |
+bullira b u l i r a |
+burgomaestro b u r ɡ o m a e s t r o |
+burla b u r l a |
+bursa b u r s a |
+bus b u s |
+button b u t o n |
+butyro b u t i r o |
+cabana k a b a n a |
+cache k a tʃ e |
+cade k a d e |
+cader k a d e r |
+cadera k a d e r a |
+cadeva k a d e v a |
+cadita k a d i t a |
+cadite k a d i t e |
+caffe k a f e |
+calcea k a l ts e a |
+calceas k a l ts e a s |
+calcettas k a l ts e t a s |
+calculos k a l k u l o s |
+calde k a l d e |
+calefactor k a l e f a k t o r |
+calice k a l i ts e |
+calide k a l i d e |
+california k a l i f o r n j a |
+calma k a l m a |
+calmava k a l m a v a |
+calor k a l o r |
+calumnias k a l u m n j a s |
+cambiamento k a m b j a m e n t o |
+cambiante k a m b j a n t e |
+cambiar k a m b j a r |
+cambiara k a m b j a r a |
+cambiate k a m b j a t e |
+cambio k a m b j o |
+camera k a m e r a |
+camerera k a m e r e r a |
+cameron k a m e r o n |
+camino k a m i n o |
+camion k a m j o n |
+camisa k a m i s a |
+camminar k a m i n a r |
+cammino k a m i n o |
+camminos k a m i n o s |
+campo k a m p o |
+campos k a m p o s |
+can k a n |
+canada k a n a d a |
+canal k a n a l |
+candela k a n d e l a |
+candelas k a n d e l a s |
+canes k a n e s |
+cannibales k a n i b a l e s |
+cannon k a n o n |
+canta k a n t a |
+cantar k a n t a r |
+cantara k a n t a r a |
+cantava k a n t a v a |
+cantion k a n t j o n |
+canto k a n t o |
+capabile k a p a b i l e |
+capace k a p a ts e |
+capacitate k a p a ts i t a t e |
+capacitates k a p a ts i t a t e s |
+caper k a p e r |
+capillos k a p i l o s |
+capital k a p i t a l |
+capitano k a p i t a n o |
+capite k a p i t e |
+capitular k a p i t u l a r |
+cappella k a p e l a |
+cappello k a p e l o |
+capricorno k a p r i k o r n o |
+capro k a p r o |
+car k a r |
+cara k a r a |
+carbohydratos k a r b o h i d r a t o s |
+care k a r e |
+carentia k a r e n t j a |
+carentias k a r e n t j a s |
+cargante k a r ɡ a n t e |
+carla k a r l a |
+carmelo k a r m e l o |
+carne k a r n e |
+carolo k a r o l o |
+carotas k a r o t a s |
+carriera k a r j e r a |
+carta k a r t a |
+cartas k a r t a s |
+carton k a r t o n |
+casa k a s a |
+casas k a s a s |
+casco k a s k o |
+caseo k a s e o |
+casettas k a s e t a s |
+casino k a s i n o |
+caso k a s o |
+casos k a s o s |
+cassa k a s a |
+cassero k a s e r o |
+castello k a s t e l o |
+cata k a t a |
+catalysatores k a t a l i s a t o r e s |
+catastrophe k a t a s t r o f e |
+categorias k a t e ɡ o r i a s |
+catena k a t e n a |
+catholicismo k a t o l i ts i s m o |
+catholicos k a t o l i k o s |
+cathy k a t i |
+cattas k a t a s |
+catto k a t o |
+cattos k a t o s |
+causa k a ʊ s a |
+causar k a ʊ s a r |
+causava k a ʊ s a v a |
+caustic k a w s t i k |
+cava k a v a |
+cavallero k a v a l e r o |
+cavallo k a v a l o |
+cavallos k a v a l o s |
+caviar k a v j a r |
+cavo k a v o |
+cec ts e k |
+cecos ts e k o s |
+ceder ts e d e r |
+cela ts e l a |
+celante ts e l a n t e |
+celebritates ts e l e b r i t a t e s |
+celia ts e l j a |
+celibe ts e l i b e |
+cella ts e l a |
+celle ts e l e |
+cellular ts e l u l a r |
+celo ts e l o |
+celtic ts e l t i k |
+cena ts e n a |
+cenar ts e n a r |
+cenava ts e n a v a |
+cenobita ts e n o b i t a |
+censo ts e n s o |
+centos ts e n t o s |
+centro ts e n t r o |
+cera ts e r a |
+cerca ts e r k a |
+cercar ts e r k a r |
+cereales ts e r e a l e s |
+cerebro ts e r e b r o |
+ceresiero ts e r e s j e r o |
+certe ts e r t e |
+certemente ts e r t e m e n t e |
+certificar ts e r t i f i k a r |
+certification ts e r t i f i k a t j o n |
+certificato ts e r t i f i k a t o |
+certitude ts e r t i t u d e |
+certo ts e r t o |
+cessa ts e s a |
+cessarea ts e s a r e a |
+cessate ts e s a t e |
+cessava ts e s a v a |
+cestos ts e s t o s |
+chacos ʃ a k o s |
+chameleonte tʃ a m e l e o n t e |
+chance ʃ a n ts e |
+chances ʃ a n ts e s |
+chaos k a o s |
+character k a r a k t e r |
+characteristica k a r a k t e r i s t i k a |
+charisma tʃ a r i s m a |
+charpa ʃ a r p a |
+chassava tʃ a s a v a |
+chef ʃ e f |
+chimia k i m i a |
+chimic k i m i k |
+china ʃ i n a |
+chineses ʃ i n e s e s |
+chirurgia k i r u r ɡ i a |
+chirurgo tʃ i r u r ɡ o |
+choccar ʃ o k a r |
+chocolate ʃ o k o l a t e |
+cholera k o l e r a |
+chorista tʃ o r i s t a |
+christianismo k r i s t j a n i s m o |
+christianitate k r i s t j a n i t a t e |
+christiano k r i s t j a n o |
+chromatic k r o m a t i k |
+ci ts i |
+ciarlestrone ts j a r l e s t r o n e |
+cibolla ts i b o l a |
+cinctura ts i n k t u r a |
+cincturas ts i n k t u r a s |
+cinemas ts i n e m a s |
+cinere ts i n e r e |
+cineriera ts i n e r j e r a |
+cinquanta ts i ŋ k w a n t a |
+cinque ts i ŋ k w e |
+circa ts i r k a |
+circo ts i r k o |
+circular ts i r k u l a r |
+circulo ts i r k u l o |
+circum ts i r k u m |
+circumstava ts i r k u m s t a v a |
+cisorios ts i s o r j o s |
+citatanos ts i t a t a n o s |
+citate ts i t a t e |
+clandestin k l a n d e s t i n |
+clar k l a r |
+clarar k l a r a r |
+claritate k l a r i t a t e |
+clarmente k l a r m e n t e |
+classe k l a s e |
+classic k l a s i k |
+classificate k l a s i f i k a t e |
+classification k l a s i f i k a t j o n |
+claude k l a ʊ d e |
+claudite k l a ʊ d i t e |
+clausura k l a ʊ s u r a |
+clave k l a v e |
+claves k l a v e s |
+cliente k l j e n t e |
+clientes k l j e n t e s |
+client-server k l j e n t s e r v e r |
+climate k l i m a t e |
+clinic k l i n i k |
+clinica k l i n i k a |
+clowns k l a w n s |
+club k l a b |
+clyde k l i d e |
+coardo k o a r d o |
+coaxa k o a k s a |
+cocer k o ts e r |
+coceva k o ts e v a |
+cocina k o ts i n a |
+cocinara k o ts i n a r a |
+codice k o d i ts e |
+codification k o d i f i k a t j o n |
+cognition k o ɡ n i t j o n |
+cognosce k o ɡ n o s ts e |
+cognoscentia k o ɡ n o s ts e n t j a |
+cognoscer k o ɡ n o s ts e r |
+cognosceva k o ɡ n o s ts e v a |
+coincider k o ɪ n ts i d e r |
+cole k o l e |
+colla k o l a |
+collaboration k o l a b o r a t j o n |
+collecta k o l e k t a |
+collection k o l e k t j o n |
+collega k o l e ɡ a |
+collide k o l i d e |
+collider k o l i d e r |
+collige k o l i ɡ e |
+colligeva k o l i ɡ e v a |
+colligite k o l i ɡ i t e |
+collinas k o l i n a s |
+colloquial k o l o k w j a l |
+color k o l o r |
+colores k o l o r e s |
+colpa k o l p a |
+colpava k o l p a v a |
+combatto k o m b a t o |
+combustibile k o m b u s t i b i l e |
+comencia k o m e n ts j a |
+comenciante k o m e n ts j a n t e |
+comenciar k o m e n ts j a r |
+comenciate k o m e n ts j a t e |
+comenciava k o m e n ts j a v a |
+commandava k o m a n d a v a |
+commando k o m a n d o |
+commento k o m e n t o |
+commercial k o m e r ts j a l |
+commercio k o m e r ts j o |
+committer k o m i t e r |
+committite k o m i t i t e |
+common k o m o n |
+commun k o m u n |
+communication k o m u n i k a t j o n |
+communitari k o m u n i t a r i |
+communitate k o m u n i t a t e |
+commutar k o m u t a r |
+como k o m o |
+comocunque k o m o k u ŋ k w e |
+compactate k o m p a k t a t e |
+compania k o m p a n i a |
+companias k o m p a n i a s |
+companiones k o m p a n j o n e s |
+comparate k o m p a r a t e |
+compassion k o m p a s j o n |
+compensar k o m p e n s a r |
+compete k o m p e t e |
+competentia k o m p e t e n t j a |
+compilar k o m p i l a r |
+completa k o m p l e t a |
+complete k o m p l e t e |
+complexe k o m p l e k s e |
+complicate k o m p l i k a t e |
+complite k o m p l i t e |
+componente k o m p o n e n t e |
+comporta k o m p o r t a |
+comportamento k o m p o r t a m e n t o |
+comportava k o m p o r t a v a |
+composition k o m p o s i t j o n |
+compra k o m p r a |
+comprar k o m p r a r |
+comprara k o m p r a r a |
+comprarea k o m p r a r e a |
+compras k o m p r a s |
+comprate k o m p r a t e |
+comprava k o m p r a v a |
+comprende k o m p r e n d e |
+comprender k o m p r e n d e r |
+comprendeva k o m p r e n d e v a |
+comprendite k o m p r e n d i t e |
+comprensibile k o m p r e n s i b i l e |
+comprension k o m p r e n s j o n |
+computar k o m p u t a r |
+computation k o m p u t a t j o n |
+computator k o m p u t a t o r |
+computos k o m p u t o s |
+con k o n |
+concerto k o n ts e r t o |
+concise k o n ts i s e |
+concluder k o n k l u d e r |
+conclusion k o n k l u s j o n |
+concorda k o n k o r d a |
+condemnatos k o n d e m n a t o s |
+condiscipulos k o n d i s ts i p u l o s |
+condition k o n d i t j o n |
+conducer k o n d u ts e r |
+conducite k o n d u ts i t e |
+confecto k o n f e k t o |
+confessava k o n f e s a v a |
+confidentialitate k o n f i d e n t j a l i t a t e |
+confirmate k o n f i r m a t e |
+conflictos k o n f l i k t o s |
+confunde k o n f u n d e |
+confusion k o n f u s j o n |
+congedo k o ŋ ɡ e d o |
+congestion k o ŋ ɡ e s t j o n |
+congresso k o ŋ ɡ r e s o |
+conilios k o n i l j o s |
+connecter k o n e k t e r |
+connectite k o n e k t i t e |
+connexion k o n e k s j o n |
+conquirite k o ŋ k w i r i t e |
+conscientia k o n s ts j e n t j a |
+consentite k o n s e n t i t e |
+consequente k o n s e k w e n t e |
+consequentia k o n s e k w e n t j a |
+consequentias k o n s e k w e n t j a s |
+conservas k o n s e r v a s |
+considera k o n s i d e r a |
+considerate k o n s i d e r a t e |
+consideration k o n s i d e r a t j o n |
+considerava k o n s i d e r a v a |
+consignation k o n s i ɡ n a t j o n |
+consiliava k o n s i l j a v a |
+consilio k o n s i l j o |
+consiste k o n s i s t e |
+consisteva k o n s i s t e v a |
+conspicue k o n s p i k w e |
+constantemente k o n s t a n t e m e n t e |
+constatar k o n s t a t a r |
+construction k o n s t r u k t j o n |
+construeva k o n s t r w e v a |
+construite k o n s t r w i t e |
+consulta k o n s u l t a |
+conta k o n t a |
+contabile k o n t a b i l e |
+contacta k o n t a k t a |
+contacto k o n t a k t o |
+contagiose k o n t a ʒ o s e |
+contante k o n t a n t e |
+contar k o n t a r |
+contava k o n t a v a |
+contente k o n t e n t e |
+contento k o n t e n t o |
+contexto k o n t e k s t o |
+contine k o n t i n e |
+continua k o n t i n w a |
+continuava k o n t i n w a v a |
+contorna k o n t o r n a |
+contornos k o n t o r n o s |
+contra k o n t r a |
+contracto k o n t r a k t o |
+contrasigno k o n t r a s i ɡ n o |
+contribuer k o n t r i b w e r |
+controlo k o n t r o l o |
+controverse k o n t r o v e r s e |
+conveniente k o n v e n j e n t e |
+conversante k o n v e r s a n t e |
+conversation k o n v e r s a t j o n |
+conversationes k o n v e r s a t j o n e s |
+convincite k o n v i n ts i t e |
+coordinates k o o r d i n a t e s |
+coperifoco k o p e r i f o k o |
+coperite k o p e r i t e |
+coperte k o p e r t e |
+copulas k o p u l a s |
+coragiose k o r a ʒ o s e |
+corda k o r d a |
+cordas k o r d a s |
+corde k o r d e |
+corean k o r e a n |
+corio k o r j o |
+corona k o r o n a |
+coronas k o r o n a s |
+corpore k o r p o r e |
+correcte k o r e k t e |
+correctiones k o r e k t j o n e s |
+corrector k o r e k t o r |
+correlate k o r e l a t e |
+corriger k o r i ɡ e r |
+corroborar k o r o b o r a r |
+corrugava k o r u ɡ a v a |
+corrumpeva k o r u m p e v a |
+corruption k o r u p t j o n |
+cortinas k o r t i n a s |
+cosa k o s a |
+cosas k o s a s |
+cosinos k o s i n o s |
+cosinus k o s i n u s |
+cossino k o s i n o |
+costa k o s t a |
+costas k o s t a s |
+costava k o s t a v a |
+costo k o s t o |
+costose k o s t o s e |
+costume k o s t u m e |
+costumes k o s t u m e s |
+coton k o t o n |
+cotta k o t a |
+courgette k o u r ɡ e t e |
+coxas k o k s a s |
+crear k r e a r |
+creative k r e a t i v e |
+creativitate k r e a t i v i t a t e |
+creatura k r e a t u r a |
+creava k r e a v a |
+crede k r e d e |
+credentiales k r e d e n t j a l e s |
+creder k r e d e r |
+crederea k r e d e r e a |
+credito k r e d i t o |
+creditos k r e d i t o s |
+crepes k r e p s |
+cresce k r e s ts e |
+crescentia k r e s ts e n t j a |
+crescer k r e s ts e r |
+cresceva k r e s ts e v a |
+crescimento k r e s ts i m e n t o |
+crescite k r e s ts i t e |
+crimine k r i m i n e |
+crispe k r i s p e |
+crispes k r i s p e s |
+crita k r i t a |
+critar k r i t a r |
+critava k r i t a v a |
+criticas k r i t i k a s |
+croc k r o k |
+crocodilo k r o k o d i l o |
+cruce k r u ts e |
+crude k r u d e |
+crustulas k r u s t u l a s |
+cryptographia k r i p t o ɡ r a f i a |
+crystallin k r i s t a l i n |
+cualiata k w a l j a t a |
+cubo k u b o |
+cucumbros k u k u m b r o s |
+cucurbitas k u k u r b i t a s |
+cue k w e |
+culmine k u l m i n e |
+culpa k u l p a |
+culpabile k u l p a b i l e |
+culpate k u l p a t e |
+culte k u l t e |
+cultello k u l t e l o |
+cultura k u l t u r a |
+cuneo k u n e o |
+cura k u r a |
+curiositate k u r j o s i t a t e |
+curre k u r e |
+currente k u r e n t e |
+currer k u r e r |
+curreva k u r e v a |
+cursa k u r s a |
+curso k u r s o |
+cursor k u r s o r |
+curte k u r t e |
+curvava k u r v a v a |
+custodes k u s t o d e s |
+custodiara k u s t o d j a r a |
+d d e |
+da d a |
+dama d a m a |
+damnate d a m n a t e |
+damnificate d a m n i f i k a t e |
+damno d a m n o |
+damnos d a m n o s |
+dansar d a n s a r |
+dansator d a n s a t o r |
+dar d a r |
+dara d a r a |
+darwin d a r w i n |
+date d a t e |
+datos d a t o s |
+dava d a v a |
+de d e |
+dea d e a |
+deambulava d e a m b u l a v a |
+debe d e b e |
+deber d e b e r |
+debera d e b e r a |
+deberea d e b e r e a |
+debeva d e b e v a |
+debian d e b j a n |
+debile d e b i l e |
+debitas d e b i t a s |
+debite d e b i t e |
+debitemente d e b i t e m e n t e |
+decades d e k a d e s |
+dece d e ts e |
+dece-duo d e ts e d u o |
+decideva d e ts i d e v a |
+decidite d e ts i d i t e |
+decisiones d e ts i s j o n e s |
+declarate d e k l a r a t e |
+declaration d e k l a r a t j o n |
+declarava d e k l a r a v a |
+dedicava d e d i k a v a |
+deductiones d e d u k t j o n e s |
+defectuose d e f e k t w o s e |
+defendite d e f e n d i t e |
+defensa d e f e n s a |
+defiar d e f j a r |
+defias d e f i a s |
+definir d e f i n i r |
+definite d e f i n i t e |
+definition d e f i n i t j o n |
+del d e l |
+deliberationes d e l i b e r a t j o n e s |
+delphinos d e l f i n o s |
+deludite d e l u d i t e |
+delusion d e l u s j o n |
+deman d e m a n |
+demanda d e m a n d a |
+demandar d e m a n d a r |
+demandate d e m a n d a t e |
+demandava d e m a n d a v a |
+demolir d e m o l i r |
+demonstrar d e m o n s t r a r |
+demonstratrice d e m o n s t r a t r i ts e |
+demora d e m o r a |
+dense d e n s e |
+dentes d e n t e s |
+dentista d e n t i s t a |
+dentistas d e n t i s t a s |
+deo ð e o |
+deos ð e o s |
+depende d e p e n d e |
+dependentia d e p e n d e n t j a |
+dependentias d e p e n d e n t j a s |
+depinge d e p i ŋ ɡ e |
+deplorabile d e p l o r a b i l e |
+deponeva d e p o n e v a |
+deposita d e p o s i t a |
+deprimeva d e p r i m e v a |
+derectos d e r e k t o s |
+deriva d e r i v a |
+descendeva d e s ts e n d e v a |
+desde d e s d e |
+deserto d e s e r t o |
+desicca d e s i k a |
+desiderio d e s i d e r j o |
+designate d e s i ɡ n a t e |
+desira d e s i r a |
+desirar d e s i r a r |
+desirava d e s i r a v a |
+desiro d e s i r o |
+desiros d e s i r o s |
+desister d e s i s t e r |
+desolate d e s o l a t e |
+desperate d e s p e r a t e |
+desperatemente d e s p e r a t e m e n t e |
+destinatario d e s t i n a t a r j o |
+destination d e s t i n a t j o n |
+destino d e s t i n o |
+destruite d e s t r w i t e |
+detalios d e t a l j o s |
+detenite d e t e n i t e |
+detention d e t e n t j o n |
+determina d e t e r m i n a |
+detesta d e t e s t a |
+detra d e t r a |
+devastava d e v a s t a v a |
+deveni d e v e n i |
+devenir d e v e n i r |
+devenira d e v e n i r a |
+devenite d e v e n i t e |
+deveniva d e v e n i v a |
+devie d e v j e |
+devorate d e v o r a t e |
+dextre d e k s t r e |
+diabolo d j a b o l o |
+diagramma d j a ɡ r a m a |
+dialogo d j a l o ɡ o |
+dice d i ts e |
+dicente d i ts e n t e |
+dicer d i ts e r |
+dicera d i ts e r a |
+dicerea d i ts e r e a |
+diceva d i ts e v a |
+dicite d i ts i t e |
+dictionario d i k t j o n a r j o |
+dicto d i k t o |
+die d i e |
+diego d j e ɡ o |
+dies d i e s |
+dieta d j e t a |
+differe d i f e r e |
+differente d i f e r e n t e |
+differentia d i f e r e n t j a |
+differentias d i f e r e n t j a s |
+difficile d i f i ts i l e |
+difficultate d i f i k u l t a t e |
+difficultates d i f i k u l t a t e s |
+diffusion d i f u s j o n |
+digital d i ɡ i t a l |
+digito d i ɡ i t o |
+digne d i ɡ n e |
+dilatate d i l a t a t e |
+dimitte d i m i t e |
+dimitteva d i m i t e v a |
+dimittite d i m i t i t e |
+dinar d i n a r |
+dinosauro d i n o s a ʊ r o |
+directe d i r e k t e |
+director d i r e k t o r |
+disabusar d i s a b u s a r |
+disactivate d i s a k t i v a t e |
+disappunctate d i s a p u n k t a t e |
+disastro d i s a s t r o |
+disastros d i s a s t r o s |
+disborda d i s b o r d a |
+discargatorio d i s k a r ɡ a t o r j o |
+discerne d i s ts e r n e |
+disciplina d i s ts i p l i n a |
+discontaminar d i s k o n t a m i n a r |
+discoperir d i s k o p e r i r |
+discoperiva d i s k o p e r i v a |
+discordante d i s k o r d a n t e |
+discotheca d i s k o t e k a |
+discourse d i s k o u r s e |
+discrete d i s k r e t e |
+discurso d i s k u r s o |
+discursos d i s k u r s o s |
+discuter d i s k u t e r |
+discutite d i s k u t i t e |
+disembarassar d i s e m b a r a s a r |
+disgratia d i s ɡ r a t j a |
+dishonorate d i ʃ o n o r a t e |
+disincantate d i s i n k a n t a t e |
+disincombra d i s i n k o m b r a |
+disingrana d i s i ŋ ɡ r a n a |
+disloyal d i s l o j a l |
+disobedi d i s o b e d i |
+disoccupation d i s o k u p a t j o n |
+dispare d i s p a r e |
+dispersar d i s p e r s a r |
+dispersion d i s p e r s j o n |
+disponibile d i s p o n i b i l e |
+disposite d i s p o s i t e |
+disputa d i s p u t a |
+disrumpite d i s r u m p i t e |
+dissenti d i s e n t i |
+dissipar d i s i p a r |
+distante d i s t a n t e |
+distantia d i s t a n t j a |
+distribution d i s t r i b u t j o n |
+districto d i s t r i k t o |
+disveloppar d i s v e l o p a r |
+diverse d i v e r s e |
+diverteva d i v e r t e v a |
+divertite d i v e r t i t e |
+divin d i v i n |
+divinate d i v i n a t e |
+divinitate d i v i n i t a t e |
+divorcio d i v o r ts j o |
+doanal d o a n a l |
+docente d o ts e n t e |
+doctor d o k t o r |
+doctores d o k t o r e s |
+dole d o l e |
+dolente d o l e n t e |
+doler d o l e r |
+dollar d o l a r |
+dolor d o l o r |
+domestic d o m e s t i k |
+dominar d o m i n a r |
+dominica d o m i n i k a |
+dominio d o m i n j o |
+dominos d o m i n o s |
+domo d o m o |
+don d o n |
+dona d o n a |
+donate d o n a t e |
+donation d o n a t j o n |
+donos d o n o s |
+dormi d o r m i |
+dormir d o r m i r |
+dormite d o r m i t e |
+dormiva d o r m i v a |
+dorso d o r s o |
+dramaticamente d r a m a t i k a m e n t e |
+drogas d r o ɡ a s |
+drogate d r o ɡ a t e |
+dubita d u b i t a |
+dubitose d u b i t o s e |
+duce d u ts e |
+ducer d u ts e r |
+ducite d u ts i t e |
+dulce d u l ts e |
+dunque d u ŋ k w e |
+duo d u o |
+duplava d u p l a v a |
+dur d u r |
+dura d u r a |
+durante d u r a n t e |
+durata d u r a t a |
+durmente d u r m e n t e |
+e e |
+ecce e ts e |
+ecologic e k o l o ɡ i k |
+economia e k o n o m i a |
+economic e k o n o m i k |
+edibile e d i b i l e |
+edificar e d i f i k a r |
+edificios e d i f i ts j o s |
+educate e d u k a t e |
+effecto e f e k t o |
+effeminate e f e m i n a t e |
+efficiente e f i ts j e n t e |
+effortiara e f o r t j a r a |
+effortio e f o r t j o |
+effractor e f r a k t o r |
+effusion e f u s j o n |
+egypto e ɡ i p t o |
+elastic e l a s t i k |
+eleazar e l e a z a r |
+election e l e k t j o n |
+electric e l e k t r i k |
+electronic e l e k t r o n i k |
+elegante e l e ɡ a n t e |
+elementari e l e m e n t a r i |
+elephantes e l e f a n t e s |
+elevar e l e v a r |
+elevate e l e v a t e |
+eligeva e l i ɡ e v a |
+elizabeth e l i z a b e t |
+eloquentia e l o k w e n t j a |
+email e m a ɪ l |
+emanate e m a n a t e |
+embarassante e m b a r a s a n t e |
+embargo e m b a r ɡ o |
+embryon e m b r j o n |
+emilio e m i l j o |
+emitter e m i t e r |
+emittite e m i t i t e |
+emotiones e m o t j o n e s |
+emplastrava e m p l a s t r a v a |
+empleato e m p l e a t o |
+empleo e m p l e o |
+emulator e m u l a t o r |
+enea e n e a |
+eneas e n e a s |
+energia e n e r ɡ i a |
+enoia e n o ɪ a |
+enoiante e n o ɪ a n t e |
+enoiate e n o ɪ a t e |
+enorme e n o r m e |
+enthusiasma e n t u s j a s m a |
+enthusiasmava e n t u s j a s m a v a |
+entra e n t r a |
+entrar e n t r a r |
+entrata e n t r a t a |
+entrava e n t r a v a |
+epocha e p o k a |
+equal e k w a l |
+equilibrio e k w i l i b r j o |
+equipa e k w i p a |
+equipage e k w i p a ʒ e |
+equitate e k w i t a t e |
+equivalente e k w i v a l e n t e |
+era e r a |
+erecte e r e k t e |
+eremiteria e r e m i t e r i a |
+ericio e r i ts j o |
+erra e r a |
+errante e r a n t e |
+errate e r a t e |
+errava e r a v a |
+erronee e r o n e e |
+error e r o r |
+errores e r o r e s |
+erudito e r u d i t o |
+eruption e r u p t j o n |
+es e s |
+escappa e s k a p a |
+escappar e s k a p a r |
+escappate e s k a p a t e |
+escudo e s k u d o |
+espania e s p a n j a |
+espaniol e s p a n j o l |
+espaventa e s p a v e n t a |
+espaventava e s p a v e n t a v a |
+esperanto e s p e r a n t o |
+esque e s k e |
+essentialmente e s e n t j a l m e n t e |
+esser e s e r |
+essera e s e r a |
+esserea e s e r e a |
+esseva e s e v a |
+essite e s i t e |
+essugacapillos e s u ɡ a k a p i l o s |
+est e s t |
+estate e s t a t e |
+estima e s t i m a |
+estive e s t i v e |
+estranie e s t r a n j e |
+estranier e s t r a n j e r |
+estufato e s t u f a t o |
+esturdite e s t u r d i t e |
+etate e t a t e |
+eternitate e t e r n i t a t e |
+etiam e t j a m |
+euphoria e u f o r i a |
+europee e u r o p e e |
+euros e ʊ r o s |
+eurozona e ʊ r o z o n a |
+evanesce e v a n e s ts e |
+evanesceva e v a n e s ts e v a |
+evaporate e v a p o r a t e |
+eveni e v e n i |
+evenir e v e n i r |
+evenira e v e n i r a |
+evenite e v e n i t e |
+eveniva e v e n i v a |
+evidentia e v i d e n t j a |
+evidentiava e v i d e n t j a v a |
+evita e v i t a |
+evitar e v i t a r |
+evolution e v o l u t j o n |
+ex e k s |
+exactemente e k s a k t e m e n t e |
+exalta e k s a l t a |
+examinar e k s a m i n a r |
+examinara e k s a m i n a r a |
+examine e k s a m i n e |
+excellente e k s ts e l e n t e |
+excepte e k s ts e p t e |
+excessive e k s ts e s i v e |
+exclusive e k s k l u s i v e |
+excursion e k s k u r s j o n |
+excusa e k s k u s a |
+excusar e k s k u s a r |
+excusas e k s k u s a s |
+exemplo e k s e m p l o |
+exemplos e k s e m p l o s |
+exeque e k s e k w e |
+exequer e k s e k w e r |
+exequeva e k s e k w e v a |
+exerceva e k s e r ts e v a |
+exercitate e k s e r ts i t a t e |
+exercitio e k s e r ts i t j o |
+exhaurite e k s h a ʊ r i t e |
+exhibite e k s h i b i t e |
+exigente e k s i ɡ e n t e |
+exir e k s i r |
+existe e k s i s t e |
+exister e k s i s t e r |
+existeva e k s i s t e v a |
+exite e k s i t e |
+exodo e k s o d o |
+expecta e k s p e k t a |
+expedir e k s p e d i r |
+expeditor e k s p e d i t o r |
+expendeva e k s p e n d e v a |
+expensas e k s p e n s a s |
+experientia e k s p e r j e n t j a |
+experimento e k s p e r i m e n t o |
+experimentos e k s p e r i m e n t o s |
+experte e k s p e r t e |
+expertes e k s p e r t e s |
+expiatori e k s p j a t o r i |
+expirate e k s p i r a t e |
+explica e k s p l i k a |
+explicar e k s p l i k a r |
+explicava e k s p l i k a v a |
+explicite e k s p l i ts i t e |
+explicitemente e k s p l i ts i t e m e n t e |
+exploder e k s p l o d e r |
+exponite e k s p o n i t e |
+exportar e k s p o r t a r |
+exposition e k s p o s i t j o n |
+exquisite e k s k w i s i t e |
+ex-sposa e k s s p o s a |
+extende e k s t e n d e |
+extendeva e k s t e n d e v a |
+externe e k s t e r n e |
+extingue e k s t i ŋ ɡ w e |
+extinguer e k s t i ŋ ɡ w e r |
+extra e k s t r a |
+extrahe e k s t r a h e |
+extraordinari e k s t r a o r d i n a r i |
+exulta e k s u l t a |
+f e f |
+fa f a |
+fabrica f a b r i k a |
+fabricate f a b r i k a t e |
+fabricava f a b r i k a v a |
+face f a ts e |
+facebook f a ts e b o o k |
+facer f a ts e r |
+facera f a ts e r a |
+facerea f a ts e r e a |
+faceva f a ts e v a |
+facie f a ts j e |
+facile f a ts i l e |
+facilemente f a ts i l e m e n t e |
+facite f a ts i t e |
+factos f a k t o s |
+facula f a k u l a |
+fallite f a l i t e |
+false f a l s e |
+falsificava f a l s i f i k a v a |
+falso f a l s o |
+falta f a l t a |
+fame f a m e |
+famelic f a m e l i k |
+familia f a m i l j a |
+familiar f a m i l j a r |
+famose f a m o s e |
+fanal f a n a l |
+fango f a ŋ ɡ o |
+fascina f a s ts i n a |
+fast-food f a s t f o o d |
+fatigate f a t i ɡ a t e |
+fato f a t o |
+favor f a v o r |
+favorabile f a v o r a b i l e |
+favorite f a v o r i t e |
+februario f e b r w a r j o |
+fede f e d e |
+federal f e d e r a l |
+felice f e l i ts e |
+felicitate f e l i ts i t a t e |
+felicitationes f e l i ts i t a t j o n e s |
+femina f e m i n a |
+feminas f e m i n a s |
+fenestra f e n e s t r a |
+feriate f e r j a t e |
+ferita f e r i t a |
+ferrari f e r a r i |
+ferro f e r o |
+ferrugine f e r u ɡ i n e |
+ferruginose f e r u ɡ i n o s e |
+fertilisante f e r t i l i s a n t e |
+festa f e s t a |
+fidantiata f i d a n t j a t a |
+fidantiato f i d a n t j a t o |
+fide f i d e |
+fider f i d e r |
+fiducia f i d u ts j a |
+figura f i ɡ u r a |
+figurante f i ɡ u r a n t e |
+figuras f i ɡ u r a s |
+filia f i l j a |
+filias f i l j a s |
+filios f i l j o s |
+film f i l m |
+filmava f i l m a v a |
+filo f i l o |
+filtro f i l t r o |
+fin f i n |
+final f i n a l |
+finalmente f i n a l m e n t e |
+financiari f i n a n ts j a r i |
+finge f i ŋ ɡ e |
+finger f i ŋ ɡ e r |
+fini f i n i |
+finira f i n i r a |
+finite f i n i t e |
+finiva f i n i v a |
+firefox f i r e f o k s |
+firewalles f i r e w a l e s |
+firma f i r m a |
+firmar f i r m a r |
+firmara f i r m a r a |
+firmware f i r m w a r e |
+fixante f i k s a n t e |
+fixate f i k s a t e |
+flexibile f l e k s i b i l e |
+floccose f l o k o s e |
+flore f l o r e |
+flores f l o r e s |
+flotta f l o t a |
+flottabile f l o t a b i l e |
+flue f l w e |
+flueva f l w e v a |
+fluvio f l u v j o |
+fluvios f l u v j o s |
+foco f o k o |
+folios f o l j o s |
+folk f o l k |
+folle f o l e |
+follia f o l i a |
+fontana f o n t a n a |
+fonte f o n t e |
+fontes f o n t e s |
+football f u t b o l |
+foras f o r a s |
+foreste f o r e s t e |
+forma f o r m a |
+formate f o r m a t e |
+fornace f o r n a ts e |
+fornir f o r n i r |
+fornitor f o r n i t o r |
+forsan f o r s a n |
+fortalessa f o r t a l e s a |
+forte f o r t e |
+fortia f o r t j a |
+fortuna f o r t u n a |
+fortunate f o r t u n a t e |
+fortunatemente f o r t u n a t e m e n t e |
+fracasso f r a k a s o |
+fragas f r a ɡ a s |
+fragmentos f r a ɡ m e n t o s |
+francamente f r a n k a m e n t e |
+francese f r a n ts e s e |
+francia f r a n ts j a |
+francisco f r a n ts i s k o |
+franco f r a n k o |
+franklin f r a ŋ k l i n |
+fratrastro f r a t r a s t r o |
+fratre f r a t r e |
+fratres f r a t r e s |
+fraudulente f r a ʊ d u l e n t e |
+fremito f r e m i t o |
+freno f r e n o |
+frequentar f r e k w e n t a r |
+frequentemente f r e k w e n t e m e n t e |
+frequentia f r e k w e n t j a |
+fresco f r e s k o |
+friger f r i ɡ e r |
+frigide f r i ɡ i d e |
+frigido f r i ɡ i d o |
+frite f r i t e |
+fronte f r o n t e |
+frontieras f r o n t j e r a s |
+fructo f r u k t o |
+fructos f r u k t o s |
+fugitivo f u ɡ i t i v o |
+fulgure f u l ɡ u r e |
+fulmine f u l m i n e |
+fuma f u m a |
+fumar f u m a r |
+fumate f u m a t e |
+fumava f u m a v a |
+fumigate f u m i ɡ a t e |
+fumo f u m o |
+function f u n k t j o n |
+functiona f u n k t j o n a |
+functionar f u n k t j o n a r |
+fundamentas f u n d a m e n t a s |
+fundamento f u n d a m e n t o |
+fundava f u n d a v a |
+fundo f u n d o |
+funeral f u n e r a l |
+furibunde f u r i b u n d e |
+furiose f u r j o s e |
+furno f u r n o |
+furto f u r t o |
+futile f u t i l e |
+futur f u t u r |
+futuro f u t u r o |
+galaxia ɡ a l a k s j a |
+gallinas ɡ a l i n a s |
+gallo ɡ a l o |
+gambas ɡ a m b a s |
+gang ɡ a ŋ ɡ |
+gangsters ɡ a n ɡ s t e r s |
+ganiar ɡ a n j a r |
+garage ɡ a r a ʒ e |
+garantir ɡ a r a n t i r |
+gary ɡ a r i |
+gas ɡ a s |
+gasolina ɡ a s o l i n a |
+gastronomo ɡ a s t r o n o m o |
+gaude ɡ a ʊ d e |
+gauder ɡ a ʊ d e r |
+gaudio ɡ a ʊ d j o |
+gaussian ɡ a w s j a n |
+gelato ɡ e l a t o |
+gelide ɡ e l i d e |
+geminos ɡ e m i n o s |
+gemmar ɡ e m a r |
+genera ɡ e n e r a |
+general ɡ e n e r a l |
+generalisate ɡ e n e r a l i s a t e |
+generalmente ɡ e n e r a l m e n t e |
+generationes ɡ e n e r a t j o n e s |
+generator ɡ e n e r a t o r |
+genere ɡ e n e r e |
+genes ɡ e n e s |
+geniculo ɡ e n i k u l o |
+gente ɡ e n t e |
+gentil ɡ e n t i l |
+genus ɡ e n u s |
+geologia ɡ e o l o ɡ i a |
+george ɡ e o r ɡ e |
+gerente ɡ e r e n t e |
+gerera ɡ e r e r a |
+germania ɡ e r m a n j a |
+gesto ɡ e s t o |
+gestor ɡ e s t o r |
+gigantesc ɡ i ɡ a n t e s k |
+girava ɡ i r a v a |
+gitarra ɡ i t a r a |
+glacie ɡ l a ts j e |
+glandes ɡ l a n d e s |
+glissante ɡ l i s a n t e |
+glissava ɡ l i s a v a |
+gloria ɡ l o r j a |
+golf ɡ o l f |
+googlar ɡ o o ɡ l a r |
+google ɡ o o ɡ l e |
+gorga ɡ o r ɡ a |
+governamento ɡ o v e r n a m e n t o |
+grace ɡ r a ts e |
+grado ɡ r a d o |
+gradualmente ɡ r a d w a l m e n t e |
+graffiti ɡ r a f i t i |
+granas ɡ r a n a s |
+grande ɡ r a n d e |
+grande-maestro ɡ r a n d e m a e s t r o |
+grandine ɡ r a n d i n e |
+grandiositate ɡ r a n d j o s i t a t e |
+grandor ɡ r a n d o r |
+granfilio ɡ r a n f i l j o |
+granmatre ɡ r a n m a t r e |
+grapho ɡ r a f o |
+grasse ɡ r a s e |
+gratias ɡ r a t j a s |
+gratification ɡ r a t i f i k a t j o n |
+gratis ɡ r a t i s |
+gratuite ɡ r a t u i t e |
+grave ɡ r a v e |
+gravide ɡ r a v i d e |
+gris ɡ r i s |
+grue ɡ r u e |
+gruppo ɡ r u p o |
+guai ɡ w a ɪ |
+guantos ɡ w a n t o s |
+guarda ɡ w a r d a |
+guardaroba ɡ w a r d a r o b a |
+guardas ɡ w a r d a s |
+guerra ɡ w e r a |
+guerreava ɡ w e r e a v a |
+guida ɡ w i d a |
+guidar ɡ w i d a r |
+guidava ɡ w i d a v a |
+guitarra ɡ h i t a r a |
+gurgite ɡ u r ɡ i t e |
+gustar ɡ u s t a r |
+gusto ɡ u s t o |
+guttural ɡ u t u r a l |
+gypso ɡ i p s o |
+ha h a |
+habente h a b e n t e |
+haber h a b e r |
+habera h a b e r a |
+haberea h a b e r e a |
+habeva h a b e v a |
+habile h a b i l e |
+habilitate h a b i l i t a t e |
+habilitates h a b i l i t a t e s |
+habita h a b i t a |
+habitar h a b i t a r |
+habitation h a b i t a t j o n |
+habite h a b i t e |
+halito h a l i t o |
+halto h a l t o |
+harajuku h a r a ʒ u k u |
+hardite h a r d i t e |
+haringo h a r i ŋ ɡ o |
+harmonia h a r m o n i a |
+hasardo h a s a r d o |
+hasta h a s t a |
+hastava h a s t a v a |
+hawaii h a w a j i |
+he h e |
+heimlich h e ɪ m l i tʃ |
+helena h e l e n a |
+hemispherio h e m i s f e r j o |
+hemorrhagia h e m o r h a ɡ i a |
+herba h e r b a |
+heri h e r i |
+herminio h e r m i n j o |
+heroe h e r o e |
+heuristic h e u r i s t i k |
+hiberno h i b e r n o |
+hic h i k |
+hierarchia h j e r a r k i a |
+hip-hop h i p h o p |
+hippopotamo h i p o p o t a m o |
+hippy h i p i |
+historia h i s t o r j a |
+historias h i s t o r j a s |
+historic h i s t o r i k |
+hodie h o d j e |
+holla h o l a |
+hollanda h o l a n d a |
+homine h o m i n e |
+homines h o m i n e s |
+homogenee h o m o ɡ e n e e |
+honestate h o n e s t a t e |
+honeste h o n e s t e |
+honora h o n o r a |
+hooligan h u l i ɡ a n |
+hora h o r a |
+horas h o r a s |
+horizonte h o r i z o n t e |
+horizontes h o r i z o n t e s |
+horologio h o r o l o ɡ j o |
+horologios h o r o l o ɡ j o s |
+horripilante h o r i p i l a n t e |
+horripilation h o r i p i l a t j o n |
+hospital h o s p i t a l |
+hospites h o s p i t e s |
+hostil h o s t i l |
+hotel o t e l |
+house h o u s e |
+human h u m a n |
+humanitate h u m a n i t a t e |
+humanos h u m a n o s |
+humeros h u m e r o s |
+humiditate h u m i d i t a t e |
+humiliate h u m i l j a t e |
+humor h u m o r |
+hungaro h u n ɡ a r o |
+hybride h i b r i d e |
+hybrido h i b r i d o |
+hypnotisate h i p n o t i s a t e |
+hypocritas h i p o k r i t a s |
+i i |
+ibi i b i |
+idea i d e a |
+ideales i d e a l e s |
+identificar i d e n t i f i k a r |
+identificator i d e n t i f i k a t o r |
+identitate i d e n t i t a t e |
+idiota i d j o t a |
+idolos i d o l o s |
+idonee i d o n e e |
+ied j e d |
+ig i ɡ |
+ignorantia i ɡ n o r a n t j a |
+il i l |
+illa i l a |
+illac i l a k |
+ille i l e |
+illes i l e s |
+illo i l o |
+illogic i l o ɡ i k |
+illos i l o s |
+illuminate i l u m i n a t e |
+illumination i l u m i n a t j o n |
+imagination i m a ɡ i n a t j o n |
+imagine i m a ɡ i n e |
+imagines i m a ɡ i n e s |
+imbecille i m b e ts i l e |
+imboscada i m b o s k a d a |
+imbraciar i m b r a ts j a r |
+imbroliate i m b r o l j a t e |
+immediatemente i m e d j a t e m e n t e |
+immense i m e n s e |
+immersive i m e r s i v e |
+immobile i m o b i l e |
+immunditia i m u n d i t j a |
+impatientia i m p a t j e n t j a |
+impedi i m p e d i |
+impedir i m p e d i r |
+impediva i m p e d i v a |
+impenetrabile i m p e n e t r a b i l e |
+impertinente i m p e r t i n e n t e |
+implaciate i m p l a ts j a t e |
+implica i m p l i k a |
+importa i m p o r t a |
+importante i m p o r t a n t e |
+impossibile i m p o s i b i l e |
+impostor i m p o s t o r |
+impostos i m p o s t o s |
+imprecisiones i m p r e ts i s j o n e s |
+impressive i m p r e s i v e |
+impudente i m p u d e n t e |
+impulsos i m p u l s o s |
+in i n |
+inaugural i n a ʊ ɡ u r a l |
+incandescentia i n k a n d e s ts e n t j a |
+incendio i n ts e n d j o |
+incerte i n ts e r t e |
+include i n k l u d e |
+includer i n k l u d e r |
+includite i n k l u d i t e |
+incognite i n k o ɡ n i t e |
+incompatibile i n k o m p a t i b i l e |
+incontrar i n k o n t r a r |
+incontrava i n k o n t r a v a |
+incontro i n k o n t r o |
+incorrecte i n k o r e k t e |
+incostose i n k o s t o s e |
+incredibile i n k r e d i b i l e |
+incredibilemente i n k r e d i b i l e m e n t e |
+incredule i n k r e d u l e |
+incrementava i n k r e m e n t a v a |
+indecise i n d e ts i s e |
+independente i n d e p e n d e n t e |
+indeterminate i n d e t e r m i n a t e |
+india i n d j a |
+indian-europee i n d j a n e u r o p e e |
+indica i n d i k a |
+indicar i n d i k a r |
+indice i n d i ts e |
+indisposite i n d i s p o s i t e |
+individual i n d i v i d w a l |
+induction i n d u k t j o n |
+industrial i n d u s t r j a l |
+inexpertos i n e k s p e r t o s |
+infante i n f a n t e |
+infantes i n f a n t e s |
+infantia i n f a n t j a |
+inferior i n f e r j o r |
+infidel i n f i d e l |
+infinite i n f i n i t e |
+infirmera i n f i r m e r a |
+influentia i n f l w e n t j a |
+influentiate i n f l w e n t j a t e |
+informar i n f o r m a r |
+informate i n f o r m a t e |
+information i n f o r m a t j o n |
+informationes i n f o r m a t j o n e s |
+infortunatemente i n f o r t u n a t e m e n t e |
+infra i n f r a |
+ingenieros i ŋ ɡ e n j e r o s |
+ingeniose i ŋ ɡ e n j o s e |
+ingluti i ŋ ɡ l u t i |
+inherente i n h e r e n t e |
+inimico i n i m i k o |
+initia i n i t j a |
+initiava i n i t j a v a |
+initio i n i t j o |
+injuste i n ʒ u s t e |
+injustemente i n ʒ u s t e m e n t e |
+innamorate i n a m o r a t e |
+inoblidabile i n o b l i d a b i l e |
+inoxydabile i n o k s i d a b i l e |
+inquietante i ŋ k w j e t a n t e |
+inquiete i ŋ k w j e t e |
+inricchite i n r i tʃ i t e |
+insan i n s a n |
+insenia i n s e n j a |
+inseniante i n s e n j a n t e |
+inseniar i n s e n j a r |
+inseniara i n s e n j a r a |
+inseniate i n s e n j a t e |
+inseniator i n s e n j a t o r |
+insensate i n s e n s a t e |
+insere i n s e r e |
+inserer i n s e r e r |
+insimul i n s i m u l |
+inspiration i n s p i r a t j o n |
+installation i n s t a l a t j o n |
+instantaneo i n s t a n t a n e o |
+instruction i n s t r u k t j o n |
+instructiones i n s t r u k t j o n e s |
+instrumento i n s t r u m e n t o |
+integrate i n t e ɡ r a t e |
+integre i n t e ɡ r e |
+integremente i n t e ɡ r e m e n t e |
+intellectual i n t e l e k t w a l |
+intelligente i n t e l i ɡ e n t e |
+intelligentes i n t e l i ɡ e n t e s |
+intende i n t e n d e |
+intender i n t e n d e r |
+intention i n t e n t j o n |
+intentional i n t e n t j o n a l |
+intentionalmente i n t e n t j o n a l m e n t e |
+inter i n t e r |
+interessa i n t e r e s a |
+interessante i n t e r e s a n t e |
+interessate i n t e r e s a t e |
+interjection i n t e r ʒ e k t j o n |
+interlingua i n t e r l i ŋ ɡ w a |
+international i n t e r n a t j o n a l |
+interne i n t e r n e |
+interramento i n t e r a m e n t o |
+interrogava i n t e r o ɡ a v a |
+interrumper i n t e r u m p e r |
+intimidationes i n t i m i d a t j o n e s |
+intra i n t r a |
+intrepide i n t r e p i d e |
+introducite i n t r o d u ts i t e |
+introduction i n t r o d u k t j o n |
+intrusos i n t r u s o s |
+inundation i n u n d a t j o n |
+inutile i n u t i l e |
+invadente i n v a d e n t e |
+invalidos i n v a l i d o s |
+inveloppe i n v e l o p e |
+invention i n v e n t j o n |
+inviar i n v j a r |
+inviava i n v j a v a |
+invio i n v i o |
+invitate i n v i t a t e |
+involveva i n v o l v e v a |
+io i o |
+ipad i p a d |
+ipse i p s e |
+ir i r |
+ira i r a |
+irasceva i r a s ts e v a |
+irate i r a t e |
+irea i r e a |
+irides i r i d e s |
+ironic i r o n i k |
+irrational i r a t j o n a l |
+irrealisabile i r e a l i s a b i l e |
+irresponsabile i r e s p o n s a b i l e |
+irritate i r i t a t e |
+irrora i r o r a |
+islam i s l a m |
+islamic i s l a m i k |
+isolar i s o l a r |
+israelita i s r a e l i t a |
+iste i s t e |
+isto i s t o |
+istos i s t o s |
+italia i t a l j a |
+italian i t a l j a n |
+ite i t e |
+ithamar i t a m a r |
+iva i v a |
+ivana i v a n a |
+j ʒ o t a |
+ja ʒ a |
+jack ʒ a k k |
+jacobo ʒ a k o b o |
+jalne ʒ a l n e |
+jam ʒ a m |
+jammais ʒ a m a i s |
+japon ʒ a p o n |
+japonese ʒ a p o n e s e |
+jardin ʒ a r d i n |
+jardinage j a r d i n a ʒ e |
+jazz dʒ e z |
+jeans dʒ i n s |
+jecta ʒ e k t a |
+jectar ʒ e k t a r |
+jectate ʒ e k t a t e |
+jectava ʒ e k t a v a |
+jecto ʒ e k t o |
+jejuna ʒ e ʒ u n a |
+jelose ʒ e l o s e |
+jenta ʒ e n t a |
+jentaculo ʒ e n t a k u l o |
+'jitter' ʒ i t e r |
+joca ʒ o k a |
+jocar ʒ o k a r |
+jocate ʒ o k a t e |
+jocava ʒ o k a v a |
+joco ʒ o k o |
+johanna ʒ o h a n a |
+johannes ʒ o h a n n e s |
+john ʒ o h n |
+joieles ʒ o ɪ e l e s |
+jornal ʒ o r n a l |
+jornata ʒ o r n a t a |
+jorno ʒ o r n o |
+jovedi ʒ o v e d i |
+judaismo ʒ u d a ɪ s m o |
+judicio ʒ u d i ts j o |
+jukebox ʒ u k e b o k s |
+julio ʒ u l j o |
+junger ʒ u ŋ ɡ e r |
+jungite ʒ u ŋ ɡ i t e |
+jungla ʒ u ŋ ɡ l a |
+junglas ʒ u ŋ ɡ l a s |
+juridic ʒ u r i d i k |
+juste ʒ u s t e |
+justitia ʒ u s t i t j a |
+justo ʒ u s t o |
+juva ʒ u v a |
+juvenas ʒ u v e n a s |
+juvene ʒ u v e n e |
+juvenes ʒ u v e n e s |
+juventute ʒ u v e n t u t e |
+kangurus k a n ɡ u r u s |
+kanto k a n t o |
+karma k a r m a |
+kate k a t e |
+kelly k e l i |
+ken k e n |
+kernel k e r n e l |
+kilogrammas k i l o ɡ r a m a s |
+kilometros k i l o m e t r o s |
+kimono k i m o n o |
+la l a |
+labor l a b o r |
+labora l a b o r a |
+laborar l a b o r a r |
+laborava l a b o r a v a |
+labores l a b o r e s |
+labyrintho l a b i r i n t o |
+lacerava l a ts e r a v a |
+laco l a k o |
+lacrimas l a k r i m a s |
+lacte l a k t e |
+lactee l a k t e e |
+lactuca l a k t u k a |
+laguna l a ɡ u n a |
+laminas l a m i n a s |
+lancear l a n ts e a r |
+largemente l a r ɡ e m e n t e |
+largessa l a r ɡ e s a |
+larynge l a r i ŋ ɡ e |
+laser l a s e r |
+lassa l a s a |
+lassar l a s a r |
+lassate l a s a t e |
+lassava l a s a v a |
+lateral l a t e r a l |
+latere l a t e r e |
+lateres l a t e r e s |
+laudes l a ʊ d e s |
+laureates l a ʊ r e a t e s |
+lava l a v a |
+lavar l a v a r |
+lavate l a v a t e |
+le l e |
+leader l e a d e r |
+lection l e k t j o n |
+lecto l e k t o |
+lector l e k t o r |
+lectores l e k t o r e s |
+lectura l e k t u r a |
+lede l e d e |
+leder l e d e r |
+legalisar l e ɡ a l i s a r |
+lege l e ɡ e |
+legente l e ɡ e n t e |
+leger l e ɡ e r |
+legera l e ɡ e r a |
+leges l e ɡ e s |
+legeva l e ɡ e v a |
+legier l e ʒ e r |
+legite l e ɡ i t e |
+legitimar l e ɡ i t i m a r |
+legitime l e ɡ i t i m e |
+legumines l e ɡ u m i n e s |
+lentemente l e n t e m e n t e |
+leonardo l e o n a r d o |
+leopardo l e o p a r d o |
+les l e s |
+lese l e s e |
+leva l e v a |
+levar l e v a r |
+levate l e v a t e |
+levator l e v a t o r |
+levi l e v i |
+liberal l i b e r a l |
+liberar l i b e r a r |
+liberator l i b e r a t o r |
+liberatori l i b e r a t o r i |
+libere l i b e r e |
+libertate l i b e r t a t e |
+libro l i b r o |
+libros l i b r o s |
+ligar l i ɡ a r |
+ligno l i ɡ n o |
+limo l i m o |
+linea l i n e a |
+lineas l i n e a s |
+lingua l i ŋ ɡ w a |
+linguage l i n ɡ w a ʒ e |
+linguas l i ŋ ɡ w a s |
+linguistica l i n ɡ w i s t i k a |
+lino l i n o |
+linus l i n u s |
+linux l i n u k s |
+liquidate l i k w i d a t e |
+lisi l i s i |
+lisie l i s j e |
+lista l i s t a |
+literalmente l i t e r a l m e n t e |
+literatura l i t e r a t u r a |
+litros l i t r o s |
+littera l i t e r a |
+litterari l i t e r a r i |
+litteratura l i t e r a t u r a |
+livrate l i v r a t e |
+lo l o |
+locatario l o k a t a r j o |
+locava l o k a v a |
+locos l o k o s |
+logic l o ɡ i k |
+london ɫ o n d o n |
+longe l o ŋ ɡ e |
+longessa l o ŋ ɡ e s a |
+lontan l o n t a n |
+lontano l o n t a n o |
+loquace l o k w a ts e |
+lor l o r |
+los l o s |
+lot l o t |
+lubrificante l u b r i f i k a n t e |
+lucca l u k a |
+luce l u ts e |
+lucide l u ts i d e |
+lucta l u k t a |
+luctate l u k t a t e |
+lucto l u k t o |
+ludovica l u d o v i k a |
+lumine l u m i n e |
+lumines l u m i n e s |
+lunas l u n a s |
+lunch l a n tʃ |
+lunchar l a n tʃ a r |
+lunedi l u n e d i |
+lympha l i m f a |
+m e m |
+ma m a |
+maat m a a t |
+machina m a k i n a |
+maestro m a e s t r o |
+mafia m a f j a |
+magia m a ɡ i a |
+magic m a ɡ i k |
+magnetic m a ɡ n e t i k |
+magnitude m a ɡ n i t u d e |
+magre m a ɡ r e |
+magressa m a ɡ r e s a |
+mahomet m a h o m e t |
+mais m a i s |
+major m a ʒ o r |
+mal m a l |
+malade m a l a d e |
+maladias m a l a d i a s |
+malado m a l a d o |
+malgrado m a l ɡ r a d o |
+malia m a l j a |
+malsan m a l s a n |
+maltractava m a l t r a k t a v a |
+mamma m a m a |
+manca m a n k a |
+mancar m a n k a r |
+mancara m a n k a r a |
+mancate m a n k a t e |
+mancava m a n k a v a |
+mancha m a n tʃ a |
+manco m a n k o |
+manda m a n d a |
+mandarinas m a n d a r i n a s |
+mangia m a ŋ ɡ j a |
+mangiar m a n ʒ a r |
+mangiate m a ŋ ɡ j a t e |
+mangiava m a ŋ ɡ j a v a |
+manicas m a n i k a s |
+maniera m a n j e r a |
+mano m a n o |
+manos m a n o s |
+manovra m a n o v r a |
+mansarda m a n s a r d a |
+mantellos m a n t e l o s |
+mantene m a n t e n e |
+mantener m a n t e n e r |
+mantenera m a n t e n e r a |
+manufactura m a n u f a k t u r a |
+maps m a p s |
+mar m a r |
+margarina m a r ɡ a r i n a |
+margarita m a r ɡ a r i t a |
+maria m a r i a |
+marie m a r j e |
+mario m a r j o |
+marita m a r i t a |
+maritar m a r i t a r |
+maritate m a r i t a t e |
+maritava m a r i t a v a |
+marito m a r i t o |
+martedi m a r t e d i |
+martino m a r t i n o |
+masculos m a s k u l o s |
+massimo m a s i m o |
+massive m a s i v e |
+materia m a t e r j a |
+material m a t e r j a l |
+materne m a t e r n e |
+mathematica m a t e m a t i k a |
+matino m a t i n o |
+matre m a t r e |
+matsuyama m a t s u j a m a |
+matur m a t u r |
+mauve m o v |
+maximisar m a k s i m i s a r |
+maximo m a k s i m o |
+me m e |
+mechanic m e k a n i k |
+medalia m e d a l j a |
+mediate m e d j a t e |
+medicamento m e d i k a m e n t o |
+medicamentos m e d i k a m e n t o s |
+medicina m e d i ts i n a |
+medicinas m e d i ts i n a s |
+medico m e d i k o |
+medie m e d j e |
+medietate m e d j e t a t e |
+medio m e d j o |
+medusa m e d u s a |
+melio m e l j o |
+melior m e l j o r |
+meliorar m e l j o r a r |
+meliorava m e l j o r a v a |
+melo m e l o |
+melodias m e l o d i a s |
+memora m e m o r a |
+memorar m e m o r a r |
+memorara m e m o r a r a |
+memorias m e m o r j a s |
+memrise m e m r i s e |
+mendacio m e n d a ts j o |
+mendico m e n d i k o |
+mense m e n s e |
+mensura m e n s u r a |
+mensurava m e n s u r a v a |
+mental m e n t a l |
+mentalmente m e n t a l m e n t e |
+mente m e n t e |
+menti m e n t i |
+mentionate m e n t j o n a t e |
+mentionava m e n t j o n a v a |
+mentir m e n t i r |
+mentita m e n t i t a |
+mentitor m e n t i t o r |
+mentiva m e n t i v a |
+menu m e n u |
+meravilia m e r a v i l j a |
+meraviliose m e r a v i l j o s e |
+mercato m e r k a t o |
+mercedes m e r ts e d e s |
+mercenario m e r ts e n a r j o |
+mercuridi m e r k u r i d i |
+merita m e r i t a |
+merla m e r l a |
+merluvio m e r l u v j o |
+mesme m e s m e |
+mesmo m e s m o |
+message m e s a ʒ e |
+messages m e s a ʒ e s |
+messe m e s e |
+messina m e s i n a |
+mesura m e s u r a |
+metallo m e t a l o |
+meteorologic m e t e o r o l o ɡ i k |
+metro m e t r o |
+metros m e t r o s |
+mexico m e k s i k o |
+mi m i |
+miaulava m j a ʊ l a v a |
+micre m i k r e |
+microfiche m i k r o f i ʃ e |
+mie m i e |
+mike m i k e |
+miki m i k i |
+militares m i l i t a r e s |
+mille m i l e |
+milles m i l e s |
+milliardario m i l j a r d a r j o |
+milliardos m i l j a r d o s |
+millias m i l j a s |
+milliones m i l j o n e s |
+minigonna m i n i ɡ o n a |
+minigonnella m i n i ɡ o n e l a |
+mini-repasto m i n i r e p a s t o |
+ministro m i n i s t r o |
+minor m i n o r |
+minoritate m i n o r i t a t e |
+minus m i n u s |
+minuscule m i n u s k u l e |
+minuta m i n u t a |
+minutas m i n u t a s |
+minutiose m i n u t j o s e |
+mira m i r a |
+miraculos m i r a k u l o s |
+mirava m i r a v a |
+miscer m i s ts e r |
+miscite m i s ts i t e |
+misere m i s e r e |
+mission m i s j o n |
+mitigar m i t i ɡ a r |
+mitteva m i t e v a |
+mobile m o b i l e |
+moda m o d a |
+modas m o d a s |
+moderate m o d e r a t e |
+moderne m o d e r n e |
+modiolo m o d i o l o |
+modo m o d o |
+mohadan m o h a d a n |
+molestar m o l e s t a r |
+molinos m o l i n o s |
+momento m o m e n t o |
+moneta m o n e t a |
+monopolio m o n o p o l j o |
+monopoly m o n o p o l i |
+monorail m o n o r e i l |
+monotone m o n o t o n e |
+monstra m o n s t r a |
+monstrar m o n s t r a r |
+monstrava m o n s t r a v a |
+monstro m o n s t r o |
+montania m o n t a n j a |
+montanias m o n t a n j a s |
+montava m o n t a v a |
+monte m o n t e |
+montgomery m o n t ɡ o m e r i |
+morbide m o r b i d e |
+morbo m o r b o |
+morder m o r d e r |
+mordeva m o r d e v a |
+mori m o r i |
+morir m o r i r |
+morirea m o r i r e a |
+moriva m o r i v a |
+morte m o r t e |
+moses m o s e s |
+motocyclista m o t o ts i k l i s t a |
+motor m o t o r |
+motorcyclo m o t o r ts i k l o |
+motores m o t o r e s |
+mover m o v e r |
+moveva m o v e v a |
+mozilla m o z i l a |
+mr e m e r |
+multe m u l t e |
+multes m u l t e s |
+multitude m u l t i t u d e |
+multivariate m u l t i v a r j a t e |
+multo m u l t o |
+munda m u n d a |
+munde m u n d e |
+mundo m u n d o |
+mural m u r a l |
+muriel m u r j e l |
+murmures m u r m u r e s |
+muro m u r o |
+muros m u r o s |
+muscia m u s ts j a |
+musica m u s i k a |
+musical m u s i k a l |
+musico m u s i k o |
+mutate m u t a t e |
+mute m u t e |
+mysterio m i s t e r j o |
+napoli ŋ a p o l i |
+narita n a r i t a |
+nasce n a s ts e |
+nascentia n a s ts e n t j a |
+nasceva n a s ts e v a |
+nascite n a s ts i t e |
+naso n a s o |
+natal n a t a l |
+natalitate n a t a l i t a t e |
+natar n a t a r |
+natator n a t a t o r |
+natatores n a t a t o r e s |
+nation n a t j o n |
+nationes n a t j o n e s |
+nativitate n a t i v i t a t e |
+natura n a t u r a |
+natural n a t u r a l |
+naturalmente n a t u r a l m e n t e |
+nave n a v e |
+navigava n a v i ɡ a v a |
+nebula n e b u l a |
+necate n e k a t e |
+necessari n e ts e s a r i |
+necessarimente n e ts e s a r i m e n t e |
+necesse n e ts e s e |
+negative n e ɡ a t i v e |
+negotiava n e ɡ o t j a v a |
+negotios n e ɡ o t j o s |
+nemo n e m o |
+nepto n e p t o |
+nettar n e t a r |
+nette n e t e |
+ni n i |
+nicolaus ŋ i k o l a u s |
+nigre n i ɡ r e |
+nihil n i h i l |
+nissan n i s a n |
+nivar n i v a r |
+nivate n i v a t e |
+nive n i v e |
+nivello n i v e l o |
+no n o |
+nocte n o k t e |
+nocturne n o k t u r n e |
+nodo n o d o |
+nodos n o d o s |
+nominate n o m i n a t e |
+nomine n o m i n e |
+nomines n o m i n e s |
+non n o n |
+non-lucrative n o n l u k r a t i v e |
+non-membros n o n m e m b r o s |
+nonne n o n e |
+nord n o r d |
+normalmente n o r m a l m e n t e |
+norton n o r t o n |
+nos n o s |
+nostalgia n o s t a l ɡ i a |
+nostre n o s t r e |
+nota n o t a |
+notas n o t a s |
+notava n o t a v a |
+note n o t e |
+novanta-cinque n o v a n t a ts i ŋ k w e |
+novanta-tres n o v a n t a t r e s |
+novas n o v a s |
+nove n o v e |
+novella n o v e l a |
+novem n o v e m |
+nove-uno-uno n o v e u n o u n o |
+novitates n o v i t a t e s |
+novo n o v o |
+nucleo n u k l e o |
+nude n u d e |
+nulle n u l e |
+numerar n u m e r a r |
+numero n u m e r o |
+numeros n u m e r o s |
+nunc n u n k |
+nunquam n u n k w a m |
+nuremberg ŋ u r e m b e r ɡ |
+nutava n u t a v a |
+nutri n u t r i |
+nutrition n u t r i t j o n |
+nylon n a i l o n |
+o o |
+obesitate o b e s i t a t e |
+oblida o b l i d a |
+oblidar o b l i d a r |
+oblidate o b l i d a t e |
+oblidava o b l i d a v a |
+obras o b r a s |
+obscur o b s k u r |
+obscurantismo o b s k u r a n t i s m o |
+obscurate o b s k u r a t e |
+observante o b s e r v a n t e |
+observar o b s e r v a r |
+obsolete o b s o l e t e |
+obstaculo o b s t a k u l o |
+obstaculos o b s t a k u l o s |
+obstructiones o b s t r u k t j o n e s |
+obtene o b t e n e |
+obtener o b t e n e r |
+obtenera o b t e n e r a |
+obvie o b v j e |
+obviemente o b v j e m e n t e |
+occidental o ts i d e n t a l |
+occider o ts i d e r |
+occideva o ts i d e v a |
+occidite o ts i d i t e |
+occupante o k u p a n t e |
+occupar o k u p a r |
+occupara o k u p a r a |
+occupate o k u p a t e |
+occurre o k u r e |
+occurrer o k u r e r |
+occurrera o k u r e r a |
+occurreva o k u r e v a |
+oceano o ts e a n o |
+octanta o k t a n t a |
+octo o k t o |
+octodiramation o k t o d i r a m a t j o n |
+oculo o k u l o |
+oculos o k u l o s |
+odor o d o r |
+odora o d o r a |
+odorava o d o r a v a |
+offensiva o f e n s i v a |
+offere o f e r e |
+offerer o f e r e r |
+offerta o f e r t a |
+officio o f i ts j o |
+oleo o l e o |
+olfaction o l f a k t j o n |
+olim o l i m |
+olleria o l e r i a |
+omelette o m e l e t e |
+omne o m n e |
+omnes o m n e s |
+on o n |
+oncle o n k l e |
+one o n e |
+opacitate o p a ts i t a t e |
+openstreetmap o p e n s t r e e t m a p |
+operate o p e r a t e |
+operative o p e r a t i v e |
+opinion o p i n j o n |
+opiniones o p i n j o n e s |
+opportun o p o r t u n |
+optic o p t i k |
+optime o p t i m e |
+optimistic o p t i m i s t i k |
+option o p t j o n |
+ora o r a |
+ordinar o r d i n a r |
+ordinari o r d i n a r i |
+organisation o r ɡ a n i s a t j o n |
+organos o r ɡ a n o s |
+orguliose o r ɡ u l j o s e |
+oriental o r j e n t a l |
+origine o r i ɡ i n e |
+orphano o r f a n o |
+orthogonal o r t o ɡ o n a l |
+ovo o v o |
+ovos o v o s |
+oxygeno o k s i ɡ e n o |
+pacchetto p a tʃ e t o |
+pace p a ts e |
+paga p a ɡ a |
+pagar p a ɡ a r |
+pagara p a ɡ a r a |
+pagate p a ɡ a t e |
+pagoda p a ɡ o d a |
+paintball p a ɪ n t b a l |
+pais p a ɪ s |
+paises p a ɪ s e s |
+pakistan p a k i s t a n |
+paladin p a l a d i n |
+palea p a l e a |
+pallet p a l e t |
+pallide p a l i d e |
+pan p a n |
+panacea p a n a ts e a |
+pandas p a n d a s |
+panna p a n a |
+pannello p a n e l o |
+pantalones p a n t a l o n e s |
+papa p a p a |
+papaveres p a p a v e r e s |
+papiro p a p i r o |
+paprika p a p r i k a |
+par p a r |
+paracaditismo p a r a k a d i t i s m o |
+paradiso p a r a d i s o |
+parametros p a r a m e t r o s |
+paranoide p a r a n o i d e |
+parcate p a r k a t e |
+parco p a r k o |
+pardona p a r d o n a |
+pardonate p a r d o n a t e |
+pardono p a r d o n o |
+pare p a r e |
+parentes p a r e n t e s |
+parentheses p a r e n t e s e s |
+pareva p a r e v a |
+parietes p a r j e t e s |
+paris p a r i s |
+parking p a r k i n ɡ |
+parla p a r l a |
+parlar p a r l a r |
+parlara p a r l a r a |
+parlate p a r l a t e |
+parlava p a r l a v a |
+parola p a r o l a |
+parolas p a r o l a s |
+parte p a r t e |
+partes p a r t e s |
+parti p a r t i |
+participantes p a r t i ts i p a n t e s |
+particularmente p a r t i k u l a r m e n t e |
+particulas p a r t i k u l a s |
+partir p a r t i r |
+partira p a r t i r a |
+partita p a r t i t a |
+partite p a r t i t e |
+party p a r t i |
+parve p a r v e |
+passa p a s a |
+passage p a s a ʒ e |
+passar p a s a r |
+passate p a s a t e |
+passato p a s a t o |
+passava p a s a v a |
+passionate p a s j o n a t e |
+passo p a s o |
+patata p a t a t a |
+patatas p a t a t a s |
+patella p a t e l a |
+patiente p a t j e n t e |
+patientia p a t j e n t j a |
+patinettes p a t i n e t e s |
+patio p a t j o |
+patre p a t r e |
+patrulia p a t r u l j a |
+pauc p a w k |
+paulo p a ʊ l o |
+paupere p a w p e r e |
+paupertate p a ʊ p e r t a t e |
+pavimento p a v i m e n t o |
+pavor p a v o r |
+peccar p e k a r |
+peccato p e k a t o |
+peccator p e k a t o r |
+pecia p e ts j a |
+pectore p e k t o r e |
+pecunia p e k u n j a |
+pede p e d e |
+pedes p e d e s |
+pediatra p e d j a t r a |
+pediatro p e d j a t r o |
+pedones p e d o n e s |
+peer-to-peer p e e r t o p e e r |
+pejo p e ʒ o |
+pejor p e ʒ o r |
+pellicia p e l i ts j a |
+pellicula p e l i k u l a |
+pena p e n a |
+pendente p e n d e n t e |
+pendite p e n d i t e |
+pendular p e n d u l a r |
+penetrava p e n e t r a v a |
+penna p e n a |
+pennas p e n a s |
+pensa p e n s a |
+pensatas p e n s a t a s |
+pensava p e n s a v a |
+pensionate p e n s j o n a t e |
+per p e r |
+perciper p e r ts i p e r |
+percipite p e r ts i p i t e |
+percurreva p e r k u r e v a |
+perde p e r d e |
+perder p e r d e r |
+perdeva p e r d e v a |
+perdita p e r d i t a |
+perdite p e r d i t e |
+peregrinas p e r e ɡ r i n a s |
+peregrinos p e r e ɡ r i n o s |
+performance p e r f o r m a n s |
+periculo p e r i k u l o |
+periculos p e r i k u l o s |
+periculose p e r i k u l o s e |
+perimetro p e r i m e t r o |
+periodo p e r i o d o |
+permitte p e r m i t e |
+permitter p e r m i t e r |
+permitterea p e r m i t e r e a |
+permitteva p e r m i t e v a |
+perplexe p e r p l e k s e |
+perque p e r k e |
+persecution p e r s e k u t j o n |
+persequer p e r s e k w e r |
+persiste p e r s i s t e |
+persona p e r s o n a |
+personalmente p e r s o n a l m e n t e |
+personas p e r s o n a s |
+perspectiva p e r s p e k t i v a |
+perspectivas p e r s p e k t i v a s |
+perspicace p e r s p i k a ts e |
+pertine p e r t i n e |
+pertinente p e r t i n e n t e |
+perturbation p e r t u r b a t j o n |
+pesa p e s a |
+pesante p e s a n t e |
+pesantemente p e s a n t e m e n t e |
+pesar p e s a r |
+pessimismo p e s i m i s m o |
+peter p e t e r |
+peteva p e t e v a |
+petra p e t r a |
+petro p e t r o |
+phenomeno f e n o m e n o |
+philosophia p h i l o s o f i a |
+philosopho p h i l o s o f o |
+phosphoro p h o s f o r o |
+photo f o t o |
+photogenic f o t o ɡ e n i k |
+photographia p h o t o ɡ r a f i a |
+phrase f r a s e |
+phrases f r a s e s |
+physic f i s i k |
+physica f i s i k a |
+physicamente f i s i k a m e n t e |
+pictura p i k t u r a |
+picturas p i k t u r a s |
+pietate p j e t a t e |
+pigre p i ɡ r e |
+pincias p i n ts j a s |
+pingeva p i ŋ ɡ e v a |
+pinguines p i ŋ ɡ w i n e s |
+pinos p i n o s |
+pipa p i p a |
+pira p i r a |
+piras p i r a s |
+pisca p i s k a |
+piscator p i s k a t o r |
+piscatores p i s k a t o r e s |
+pisce p i s ts e |
+pisces p i s ts e s |
+piscina p i s ts i n a |
+pista p i s t a |
+pistola p i s t o l a |
+piston p i s t o n |
+pixels p i k s e l s |
+place p l a ts e |
+placera p l a ts e r a |
+placerea p l a ts e r e a |
+placeva p l a ts e v a |
+placia p l a ts j a |
+plaga p l a ɡ a |
+plagia p l a ʒ a |
+plan p l a n |
+planca p l a n k a |
+plancas p l a n k a s |
+planeta p l a n e t a |
+plange p l a ŋ ɡ e |
+plano p l a n o |
+planos p l a n o s |
+plantate p l a n t a t e |
+plastic p l a s t i k |
+plastica p l a s t i k a |
+plattas p l a t a s |
+platte p l a t e |
+platto p l a t o |
+plattos p l a t o s |
+plen p l e n |
+plena p l e n a |
+plenate p l e n a t e |
+plenmente p l e n m e n t e |
+plora p l o r a |
+plorar p l o r a r |
+plorate p l o r a t e |
+plumbero p l u m b e r o |
+plure p l u r e |
+plus p l u s |
+pluve p l u v e |
+pluver p l u v e r |
+pluvera p l u v e r a |
+pluvia p l u v j a |
+pluviose p l u v j o s e |
+poc p o k |
+poco p o k o |
+podio p o d j o |
+poemas p o e m a s |
+poesia p o e s i a |
+poeta p o e t a |
+pois p o i s |
+policia p o l i ts i a |
+policiero p o l i ts j e r o |
+politic p o l i t i k |
+politica p o l i t i k a |
+politicos p o l i t i k o s |
+pollue p o l w e |
+pollution p o l u t j o n |
+polos p o l o s |
+pomo p o m o |
+pomos p o m o s |
+ponderation p o n d e r a t j o n |
+pone p o n e |
+poner p o n e r |
+poneva p o n e v a |
+ponte p o n t e |
+popular p o p u l a r |
+population p o p u l a t j o n |
+populo p o p u l o |
+porco p o r k o |
+porta p o r t a |
+portar p o r t a r |
+portarea p o r t a r e a |
+portas p o r t a s |
+portate p o r t a t e |
+portava p o r t a v a |
+porto p o r t o |
+position p o s i t j o n |
+positive p o s i t i v e |
+possede p o s e d e |
+posseder p o s e d e r |
+possibile p o s i b i l e |
+post p o s t |
+postal p o s t a l |
+postea p o s t e a |
+posterior p o s t e r j o r |
+postmeridie p o s t m e r i d j e |
+postpone p o s t p o n e |
+pote p o t e |
+potente p o t e n t e |
+potentialitates p o t e n t j a l i t a t e s |
+poter p o t e r |
+potera p o t e r a |
+poterea p o t e r e a |
+poteres p o t e r e s |
+poteva p o t e v a |
+povre p o v r e |
+practic p r a k t i k |
+practica p r a k t i k a |
+practicava p r a k t i k a v a |
+prado p r a d o |
+praga p r a ɡ a |
+prateria p r a t e r j a |
+prato p r a t o |
+preca p r e k a |
+pre-cerca p r e ts e r k a |
+precio p r e ts j o |
+preciose p r e ts j o s e |
+precipita p r e ts i p i t a |
+precise p r e ts i s e |
+precursor p r e k u r s o r |
+predicer p r e d i ts e r |
+prediction p r e d i k t j o n |
+prefere p r e f e r e |
+preferibile p r e f e r i b i l e |
+preme p r e m e |
+premio p r e m j o |
+premios p r e m j o s |
+prende p r e n d e |
+prender p r e n d e r |
+prendera p r e n d e r a |
+prendeva p r e n d e v a |
+prendite p r e n d i t e |
+preoccupa p r e o k u p a |
+preoccupate p r e o k u p a t e |
+preoccupation p r e o k u p a t j o n |
+preparar p r e p a r a r |
+preparara p r e p a r a r a |
+preparate p r e p a r a t e |
+preparava p r e p a r a v a |
+presenta p r e s e n t a |
+presente p r e s e n t e |
+preside p r e s i d e |
+presidente p r e s i d e n t e |
+pressate p r e s a t e |
+pression p r e s j o n |
+presso p r e s o |
+prestar p r e s t a r |
+prestava p r e s t a v a |
+preste p r e s t e |
+prestigiose p r e s t i ɡ j o s e |
+presto p r e s t o |
+prestos p r e s t o s |
+presume p r e s u m e |
+pretendeva p r e t e n d e v a |
+preter p r e t e r |
+primavera p r i m a v e r a |
+prime p r i m e |
+primo p r i m o |
+principal p r i n ts i p a l |
+prisionero p r i s j o n e r o |
+private p r i v a t e |
+pro p r o |
+probabile p r o b a b i l e |
+probabilemente p r o b a b i l e m e n t e |
+probara p r o b a r a |
+probava p r o b a v a |
+problema p r o b l e m a |
+problemas p r o b l e m a s |
+processo p r o ts e s o |
+proclamava p r o k l a m a v a |
+procurava p r o k u r a v a |
+produce p r o d u ts e |
+producente p r o d u ts e n t e |
+produceva p r o d u ts e v a |
+producite p r o d u ts i t e |
+production p r o d u k t j o n |
+productos p r o d u k t o s |
+professionales p r o f e s j o n a l e s |
+profilos p r o f i l o s |
+profita p r o f i t a |
+profundemente p r o f u n d e m e n t e |
+programma p r o ɡ r a m a |
+progressive p r o ɡ r e s i v e |
+progresso p r o ɡ r e s o |
+prohibition p r o h i b i t j o n |
+projectate p r o ʒ e k t a t e |
+projecto p r o ʒ e k t o |
+projectos p r o ʒ e k t o s |
+prolifica p r o l i f i k a |
+promenada p r o m e n a d a |
+promenava p r o m e n a v a |
+promissa p r o m i s a |
+promove p r o m o v e |
+promovite p r o m o v i t e |
+proposito p r o p o s i t o |
+proprie p r o p r j e |
+proprietario p r o p r j e t a r j o |
+proprietarios p r o p r j e t a r j o s |
+proque p r o k e |
+proteger p r o t e ɡ e r |
+protegeva p r o t e ɡ e v a |
+protesta p r o t e s t a |
+prova p r o v a |
+provar p r o v a r |
+provate p r o v a t e |
+provincia p r o v i n ts j a |
+provoca p r o v o k a |
+proxime p r o k s i m e |
+prudentia p r u d e n t j a |
+pruriente p r u r j e n t e |
+pta p t a |
+public p u b l i k |
+publicate p u b l i k a t e |
+publication p u b l i k a t j o n |
+publicitate p u b l i ts i t a t e |
+publico p u b l i k o |
+puera p u e r a |
+puero p u e r o |
+pueros p u e r o s |
+pullover p u l o v e r |
+pulsante p u l s a n t e |
+pulsar p u l s a r |
+pulsava p u l s a v a |
+pulvere p u l v e r e |
+pumpate p u m p a t e |
+punctava p u n k t a v a |
+puncto p u n k t o |
+punctos p u n k t o s |
+pupa p u p a |
+purpuree p u r p u r e e |
+pus p u s |
+pyramides p i r a m i d e s |
+pyras p i r a s |
+qua k w a |
+quadros k w a d r o s |
+quai k e |
+qual k w a l |
+qualcosa k w a l k o s a |
+qualcunque k w a l k u ŋ k w e |
+quales k w a l e s |
+qualificate k w a l i f i k a t e |
+qualitate k w a l i t a t e |
+qualque k w a l k e |
+quando k w a n d o |
+quandocunque k w a n d o k u ŋ k w e |
+quante k w a n t e |
+quantitate k w a n t i t a t e |
+quantitates k w a n t i t a t e s |
+quanto k w a n t o |
+quantos k w a n t o s |
+quaranta-duo k w a r a n t a d u o |
+quaranta-octo k w a r a n t a o k t o |
+quarte k w a r t e |
+quartiero k w a r t j e r o |
+quasi k w a s i |
+quatro k w a t r o |
+que k e |
+quebec k e b e k |
+quecunque k e k u n k w e |
+querco k w e r k o |
+quercos k w e r k o s |
+quere k w e r e |
+question k w e s t j o n |
+questionabile k w e s t j o n a b i l e |
+questiones k w e s t j o n e s |
+queue k w e ʊ e |
+qui k i |
+quicunque k i k u n k w e |
+quiete k w j e t e |
+quitar k w i t a r |
+quixote k w i k s o t e |
+rabiava r a b j a v a |
+radiation r a d j a t j o n |
+radice r a d i ts e |
+radices r a d i ts e s |
+radio r a d j o |
+radiographias r a d j o ɡ r a f i a s |
+radite r a d i t e |
+rana r a n a |
+ranas r a n a s |
+rap r a p |
+rapide r a p i d e |
+rapidemente r a p i d e m e n t e |
+rar r a r |
+rarmente r a r m e n t e |
+ration r a t j o n |
+rationa r a t j o n a |
+rationamento r a t j o n a m e n t o |
+rattos r a t o s |
+rauc r a w k |
+ray r a j |
+re r e |
+reaction r e a k t j o n |
+reactiones r e a k t j o n e s |
+real r e a l |
+realisar r e a l i s a r |
+realmente r e a l m e n t e |
+rebulliva r e b u l i v a |
+recede r e ts e d e |
+recente r e ts e n t e |
+recentemente r e ts e n t e m e n t e |
+receptas r e ts e p t a s |
+receptor r e ts e p t o r |
+recerca r e ts e r k a |
+recipe r e ts i p e |
+reciper r e ts i p e r |
+recipera r e ts i p e r a |
+recipeva r e ts i p e v a |
+recipite r e ts i p i t e |
+recoltas r e k o l t a s |
+recoltator r e k o l t a t o r |
+recomenciava r e k o m e n ts j a v a |
+recommendate r e k o m e n d a t e |
+reconstruer r e k o n s t r w e r |
+recrutava r e k r u t a v a |
+rectificar r e k t i f i k a r |
+rectitude r e k t i t u d e |
+rector r e k t o r |
+recular r e k u l a r |
+recuperation r e k u p e r a t j o n |
+recyclabile r e ts i k l a b i l e |
+recyclar r e ts i k l a r |
+recyclate r e ts i k l a t e |
+rediger r e d i ɡ e r |
+reducer r e d u ts e r |
+refacite r e f a ts i t e |
+refere r e f e r e |
+referite r e f e r i t e |
+reflecter r e f l e k t e r |
+reflexion r e f l e k s j o n |
+refrescara r e f r e s k a r a |
+refrigerator r e f r i ɡ e r a t o r |
+refugiatos r e f u ɡ j a t o s |
+refugio r e f u ɡ j o |
+refusar r e f u s a r |
+refusava r e f u s a v a |
+rege r e ɡ e |
+reggae r e ɡ a e |
+region r e ɡ j o n |
+registrate r e ɡ i s t r a t e |
+registration r e ɡ i s t r a t j o n |
+regratiar r e ɡ r a t j a r |
+regratiava r e ɡ r a t j a v a |
+regretta r e ɡ r e t a |
+reguarda r e ɡ w a r d a |
+reguardante r e ɡ w a r d a n t e |
+reguardar r e ɡ w a r d a r |
+reguardava r e ɡ w a r d a v a |
+reguardo r e ɡ w a r d o |
+reinfortiar r e ɪ n f o r t j a r |
+rejectate r e ʒ e k t a t e |
+relation r e l a t j o n |
+relationes r e l a t j o n e s |
+relative r e l a t i v e |
+relaxar r e l a k s a r |
+relenta r e l e n t a |
+religar r e l i ɡ a r |
+religion r e l i ɡ j o n |
+religiones r e l i ɡ j o n e s |
+reluctante r e l u k t a n t e |
+remediar r e m e d j a r |
+rememora r e m e m o r a |
+rememorava r e m e m o r a v a |
+remolco r e m o l k o |
+renascentia r e n a s ts e n t j a |
+rende r e n d e |
+render r e n d e r |
+rendera r e n d e r a |
+rendeva r e n d e v a |
+rendimento r e n d i m e n t o |
+rendite r e n d i t e |
+renta r e n t a |
+reparar r e p a r a r |
+reparate r e p a r a t e |
+reparation r e p a r a t j o n |
+repasto r e p a s t o |
+repete r e p e t e |
+repetite r e p e t i t e |
+repetitemente r e p e t i t e m e n t e |
+replica r e p l i k a |
+repone r e p o n e |
+reposa r e p o s a |
+reproduceva r e p r o d u ts e v a |
+reptava r e p t a v a |
+require r e k w i r e |
+requireva r e k w i r e v a |
+requirite r e k w i r i t e |
+resaltava r e s a l t a v a |
+reservate r e s e r v a t e |
+residential r e s i d e n t j a l |
+residue r e s i d w e |
+residuos r e s i d w o s |
+resistente r e s i s t e n t e |
+resister r e s i s t e r |
+resolver r e s o l v e r |
+respecta r e s p e k t a |
+respecto r e s p e k t o |
+responde r e s p o n d e |
+responder r e s p o n d e r |
+respondeva r e s p o n d e v a |
+responsa r e s p o n s a |
+responsas r e s p o n s a s |
+resta r e s t a |
+restar r e s t a r |
+restaurante r e s t a ʊ r a n t e |
+restava r e s t a v a |
+resultante r e s u l t a n t e |
+resultar r e s u l t a r |
+resultato r e s u l t a t o |
+resultatos r e s u l t a t o s |
+resumerea r e s u m e r e a |
+retardara r e t a r d a r a |
+retardo r e t a r d o |
+rete r e t e |
+retes r e t e s |
+retirar r e t i r a r |
+retorna r e t o r n a |
+retornar r e t o r n a r |
+retornara r e t o r n a r a |
+retornate r e t o r n a t e |
+retornava r e t o r n a v a |
+retro r e t r o |
+retrospectiva r e t r o s p e k t i v a |
+reuni r e ʊ n i |
+reunion r e ʊ n j o n |
+reuniones r e ʊ n j o n e s |
+reusar r e ʊ s a r |
+revelava r e v e l a v a |
+reveni r e v e n i |
+revenir r e v e n i r |
+reverential r e v e r e n t j a l |
+revider r e v i d e r |
+rhinocerote r i n o ts e r o t e |
+ric r i k |
+ricchessas r i tʃ e s a s |
+ride r i d e |
+rider r i d e r |
+ridicule r i d i k u l e |
+riga r i ɡ a |
+ris r i s |
+riso r i s o |
+rivo r i v o |
+rixa r i k s a |
+roba r o b a |
+robamento r o b a m e n t o |
+robar r o b a r |
+robava r o b a v a |
+robert r o b e r t |
+robuste r o b u s t e |
+rocca r o k a |
+rola r o l a |
+rolar r o l a r |
+roma r o m a |
+roman r o m a n |
+ronde r o n d e |
+roosevelt r o o s e v e l t |
+rosas r o s a s |
+rossiniolo r o s i n j o l o |
+rotas r o t a s |
+route r u t |
+rubesceva r u b e s ts e v a |
+rubie r u b j e |
+rude r u d e |
+ruinar r w i n a r |
+ruito r w i t o |
+rum r a m |
+rumor r u m o r |
+rumpe r u m p e |
+rumper r u m p e r |
+rupte r u p t e |
+russe r u s e |
+russo r u s o |
+russos r u s o s |
+sabbato s a b a t o |
+sacco s a k o |
+saccos s a k o s |
+sacerdote s a ts e r d o t e |
+sacerdotio s a ts e r d o t j o |
+sacrificarea s a k r i f i k a r e a |
+sage s a ʒ e |
+sala s a l a |
+salario s a l a r j o |
+salas s a l a s |
+salate s a l a t e |
+salim s a l i m |
+salta s a l t a |
+saltar s a l t a r |
+saltava s a l t a v a |
+salubre s a l u b r e |
+saluta s a l u t a |
+salutationes s a l u t a t j o n e s |
+salute s a l u t e |
+salva s a l v a |
+salvage s a l v a ʒ e |
+salvamento s a l v a m e n t o |
+salvarea s a l v a r e a |
+salvava s a l v a v a |
+salva-vita s a l v a v i t a |
+salvo s a l v o |
+samovar s a m o v a r |
+san s a n |
+sanava s a n a v a |
+sancte s a n k t e |
+sanctificar s a n k t i f i k a r |
+sanctiones s a n k t j o n e s |
+sandalias s a n d a l j a s |
+sandwich s a n d w i tʃ |
+sanguina s a ŋ ɡ w i n a |
+sanguinava s a ŋ ɡ w i n a v a |
+sanitate s a n i t a t e |
+sape s a p e |
+saper s a p e r |
+saperea s a p e r e a |
+sapeva s a p e v a |
+sapientes s a p j e n t e s |
+sapientia s a p j e n t j a |
+sapite s a p i t e |
+sapora s a p o r a |
+saporar s a p o r a r |
+sasiva s a s i v a |
+satietate s a t j e t a t e |
+satis s a t i s |
+satisfaciente s a t i s f a ts j e n t e |
+satisfacite s a t i s f a ts i t e |
+satisfaction s a t i s f a k t j o n |
+satisfactori s a t i s f a k t o r i |
+saturno s a t u r n o |
+scalas s k a l a s |
+scalia s k a l j a |
+scarpa s k a r p a |
+scarpas s k a r p a s |
+scarpate s k a r p a t e |
+sceleratos s ts e l e r a t o s |
+scenas s ts e n a s |
+sceptic s ts e p t i k |
+schola s tʃ o l a |
+scholares s tʃ o l a r e s |
+scholas s tʃ o l a s |
+scientia s ts j e n t j a |
+scintillation s ts i n t i l a t j o n |
+sclava s k l a v a |
+sclavitude s k l a v i t u d e |
+scopa s k o p a |
+scopo s k o p o |
+scribe s k r i b e |
+scriber s k r i b e r |
+scribeva s k r i b e v a |
+scribite s k r i b i t e |
+scriptor s k r i p t o r |
+scriptorio s k r i p t o r j o |
+scripts s k r i p t s |
+scriptura s k r i p t u r a |
+sculpite s k u l p i t e |
+sculpturas s k u l p t u r a s |
+se s e |
+secar s e k a r |
+secava s e k a v a |
+secrete s e k r e t e |
+secretes s e k r e t e s |
+secretos s e k r e t o s |
+section s e k t j o n |
+seculos s e k u l o s |
+secunda s e k u n d a |
+secundari s e k u n d a r i |
+secunde s e k u n d e |
+secundo s e k u n d o |
+secur s e k u r |
+securitate s e k u r i t a t e |
+securmente s e k u r m e n t e |
+sede s e d e |
+seder s e d e r |
+sedes s e d e s |
+sedeva s e d e v a |
+sedia s e d j a |
+sedite s e d i t e |
+segregate s e ɡ r e ɡ a t e |
+seismo s e i s m o |
+selection s e l e k t j o n |
+seligeva s e l i ɡ e v a |
+sembla s e m b l a |
+semblava s e m b l a v a |
+semibreve s e m i b r e v e |
+semiconductor s e m i k o n d u k t o r |
+semitransparente s e m i t r a n s p a r e n t e |
+semper s e m p e r |
+sempre s e m p r e |
+senectute s e n e k t u t e |
+senior s e n j o r |
+senioretta s e n j o r e t a |
+sensation s e n s a t j o n |
+sensibile s e n s i b i l e |
+senso s e n s o |
+sente s e n t e |
+senti s e n t i |
+sentimentos s e n t i m e n t o s |
+sentir s e n t i r |
+sentira s e n t i r a |
+sentiva s e n t i v a |
+separa s e p a r a |
+separar s e p a r a r |
+separate s e p a r a t e |
+separatemente s e p a r a t e m e n t e |
+sepeliva s e p e l i v a |
+septe s e p t e |
+septimana s e p t i m a n a |
+seque s e k w e |
+sequente s e k w e n t e |
+sequer s e k w e r |
+sequeva s e k w e v a |
+sequite s e k w i t e |
+sequitor s e k w i t o r |
+ser s e r |
+sera s e r a |
+sergey s e r ɡ e j |
+serie s e r j e |
+seriose s e r j o s e |
+serra s e r a |
+serrar s e r a r |
+serrate s e r a t e |
+serva s e r v a |
+servicio s e r v i ts j o |
+servietta s e r v j e t a |
+servir s e r v i r |
+servite s e r v i t e |
+serviva s e r v i v a |
+servos s e r v o s |
+seta s e t a |
+sever s e v e r |
+sex s e k s |
+sexanta s e k s a n t a |
+sexy s e k s i |
+shawty ʃ a w t i |
+si s i |
+sia s i a |
+siccate s i k a t e |
+siciliano s i ts i l j a n o |
+sicut s i k u t |
+signalate s i ɡ n a l a t e |
+significa s i ɡ n i f i k a |
+significative s i ɡ n i f i k a t i v e |
+significava s i ɡ n i f i k a v a |
+signos s i ɡ n o s |
+silente s i l e n t e |
+silentio s i l e n t j o |
+simile s i m i l e |
+simon s i m o n |
+simple s i m p l e |
+simplemente s i m p l e m e n t e |
+sin s i n |
+sinai s i n a ɪ |
+sirena s i r e n a |
+siro s i r o |
+sito s i t o |
+situation s i t w a t j o n |
+skeleto s k e l e t o |
+ski s k i |
+skiar s k j a r |
+smartphono s m a r t f o n o |
+smith s m i t |
+snob s n o b |
+sobrie s o b r j e |
+social s o ts j a l |
+societate s o ts j e t a t e |
+sociopathe s o ts j o p a t e |
+software s o f t w a r e |
+sojorna s o ʒ o r n a |
+sol s o l |
+solano s o l a n o |
+solar s o l a r |
+soldato s o l d a t o |
+soldatos s o l d a t o s |
+soldos s o l d o s |
+sole s o l e |
+solidari s o l i d a r i |
+solitude s o l i t u d e |
+sollicitate s o l i ts i t a t e |
+solmente s o l m e n t e |
+solo s o l o |
+solution s o l u t j o n |
+solver s o l v e r |
+somnole s o m n o l e |
+sona s o n a |
+sonante s o n a n t e |
+sonava s o n a v a |
+sonia s o n j a |
+soniar s o n j a r |
+soniate s o n j a t e |
+sonio s o n j o |
+sonios s o n j o s |
+sono s o n o |
+sonor s o n o r |
+sophisticate s o f i s t i k a t e |
+soror s o r o r |
+sorta s o r t a |
+sortas s o r t a s |
+sortir s o r t i r |
+sortiva s o r t i v a |
+sovente s o v e n t e |
+spaghetti s p a ɡ h e t i |
+sparnia s p a r n j a |
+sparniar s p a r n j a r |
+spatio s p a t j o |
+spatula s p a t u l a |
+spatulas s p a t u l a s |
+special s p e ts j a l |
+species s p e ts j e s |
+specific s p e ts i f i k |
+specifica s p e ts i f i k a |
+specificamente s p e ts i f i k a m e n t e |
+spectaculo s p e k t a k u l o |
+spectar s p e k t a r |
+spectator s p e k t a t o r |
+spectatores s p e k t a t o r e s |
+spectro s p e k t r o |
+speculo s p e k u l o |
+spera s p e r a |
+sperantia s p e r a n t j a |
+sperava s p e r a v a |
+spero s p e r o |
+spirito s p i r i t o |
+spiritual s p i r i t w a l |
+spisse s p i s e |
+sportista s p o r t i s t a |
+sports s p o r t s |
+sposa s p o s a |
+sposar s p o s a r |
+sposo s p o s o |
+spray s p r a j |
+sputava s p u t a v a |
+squalos s k w a l o s |
+squattava s k w a t a v a |
+sta s t a |
+stabile s t a b i l e |
+stabilir s t a b i l i r |
+stadio s t a d j o |
+stagno s t a ɡ n o |
+standardos s t a n d a r d o s |
+stanno s t a n o |
+star s t a r |
+station s t a t j o n |
+statistica s t a t i s t i k a |
+stato s t a t o |
+statos s t a t o s |
+stava s t a v a |
+stellas s t e l a s |
+stereo s t e r e o |
+sternutar s t e r n u t a r |
+stilo s t i l o |
+stilos s t i l o s |
+stock s t o k k |
+stop s t o p |
+stoppa s t o p a |
+stoppar s t o p a r |
+strata s t r a t a |
+strideva s t r i d e v a |
+stringer s t r i ŋ ɡ e r |
+structura s t r u k t u r a |
+studentes s t u d e n t e s |
+studia s t u d j a |
+studiar s t u d j a r |
+studiate s t u d j a t e |
+studio s t u d j o |
+stulte s t u l t e |
+stultos s t u l t o s |
+stupefaciente s t u p e f a ts j e n t e |
+stupefacte s t u p e f a k t e |
+stupende s t u p e n d e |
+stupide s t u p i d e |
+su s u |
+sub s u b |
+subdivide s u b d i v i d e |
+subestimate s u b e s t i m a t e |
+subite s u b i t e |
+subito s u b i t o |
+subjecte s u b ʒ e k t e |
+subjecto s u b ʒ e k t o |
+sublevar s u b l e v a r |
+sublime s u b l i m e |
+submitte s u b m i t e |
+subscribite s u b s k r i b i t e |
+subtilmente s u b t i l m e n t e |
+succedeva s u ts e d e v a |
+succedite s u ts e d i t e |
+successo s u ts e s o |
+succo s u k o |
+succurso s u k u r s o |
+succussas s u k u s a s |
+succute s u k u t e |
+succuteva s u k u t e v a |
+sucrate s u k r a t e |
+sucro s u k r o |
+sud s u d |
+sue s u e |
+suffereva s u f e r e v a |
+sufficiente s u f i ts j e n t e |
+suffla s u f l a |
+sufflava s u f l a v a |
+suffoca s u f o k a |
+suffocar s u f o k a r |
+suffre s u f r e |
+suffrer s u f r e r |
+suffreva s u f r e v a |
+suggestion s u ɡ e s t j o n |
+summe s u m e |
+super s u p e r |
+superate s u p e r a t e |
+supercilios s u p e r ts i l j o s |
+superflue s u p e r f l w e |
+supermercato s u p e r m e r k a t o |
+supervivera s u p e r v i v e r a |
+suppa s u p a |
+suppone s u p o n e |
+supra s u p r a |
+sur s u r |
+surde s u r d e |
+surprende s u r p r e n d e |
+surprendite s u r p r e n d i t e |
+surprisas s u r p r i s a s |
+surride s u r i d e |
+surridente s u r i d e n t e |
+surrider s u r i d e r |
+surrideva s u r i d e v a |
+surriso s u r i s o |
+susceptibile s u s ts e p t i b i l e |
+suspecta s u s p e k t a |
+suspirava s u s p i r a v a |
+susurrava s u s u r a v a |
+svede s v e d e |
+svedo s v e d o |
+synchronisa s i n k r o n i s a |
+syncope s i n k o p e |
+syndicato s i n d i k a t o |
+syntonisate s i n t o n i s a t e |
+systema s i s t e m a |
+tabula t a b u l a |
+tace t a ts e |
+taceva t a ts e v a |
+tag t a ɡ |
+tal t a l |
+talento t a l e n t o |
+talentos t a l e n t o s |
+taliar t a l j a r |
+talmente t a l m e n t e |
+tamben t a m b e n |
+tamen t a m e n |
+tannino t a n i n o |
+tanto t a n t o |
+tapete t a p e t e |
+tardara t a r d a r a |
+tardate t a r d a t e |
+tarde t a r d e |
+tarifas t a r i f a s |
+tasca t a s k a |
+tassa t a s a |
+tassas t a s a s |
+taverna t a v e r n a |
+taxa t a k s a |
+taxi t a k s i |
+te t e |
+technic t e k n i k |
+technica t e k n i k a |
+technologia t e k n o l o ɡ i a |
+tecto t e k t o |
+tedio t e d j o |
+tediose t e d j o s e |
+telephona t e l e f o n a |
+telephonava t e l e f o n a v a |
+telephono t e l e f o n o |
+television t e l e v i s j o n |
+temerari t e m e r a r i |
+temperatura t e m p e r a t u r a |
+temperaturas t e m p e r a t u r a s |
+tempesta t e m p e s t a |
+templo t e m p l o |
+tempore t e m p o r e |
+tempores t e m p o r e s |
+tende t e n d e |
+tendite t e n d i t e |
+tene t e n e |
+tener t e n e r |
+tennis t e n n i s |
+tenta t e n t a |
+tentativa t e n t a t i v a |
+tentativas t e n t a t i v a s |
+tentava t e n t a v a |
+terminal t e r m i n a l |
+termino t e r m i n o |
+terminos t e r m i n o s |
+terra t e r a |
+terribile t e r i b i l e |
+terrificar t e r i f i k a r |
+terrificate t e r i f i k a t e |
+territorio t e r i t o r j o |
+terror t e r o r |
+testa t e s t a |
+testas t e s t a s |
+teste t e s t e |
+testes t e s t e s |
+texto t e k s t o |
+the t e |
+theatro t e a t r o |
+thema t e m a |
+theoria t e o r i a |
+theorias t e o r i a s |
+therapia t e r a p i a |
+thermic t e r m i k |
+thomas t o m a s |
+throno t r o n o |
+tim t i m |
+timbros t i m b r o s |
+time t i m e |
+timer t i m e r |
+timide t i m i d e |
+tira t i r a |
+tirar t i r a r |
+tirara t i r a r a |
+tirate t i r a t e |
+tiro t i r o |
+titanium t i t a n j u m |
+toalia t o a l j a |
+toast t o w s t |
+tobogganes t o b o ɡ a n e s |
+tocca t o k a |
+tofu t o f u |
+toilette t w a l e t |
+tokio t o k j o |
+tokyo t o k j o |
+tom t o m |
+tomate t o m a t e |
+tomates t o m a t e s |
+tonitro t o n i t r o |
+tonitruante t o n i t r w a n t e |
+tony t o n i |
+tornasol t o r n a s o l |
+torno t o r n o |
+tornos t o r n o s |
+torrone t o r o n e |
+torta t o r t a |
+torto t o r t o |
+tosto t o s t o |
+total t o t a l |
+totalmente t o t a l m e n t e |
+tote t o t e |
+totes t o t e s |
+totevia t o t e v i a |
+toto t o t o |
+tour t u r |
+touristas t u r i s t a s |
+tra t r a |
+tracta t r a k t a |
+tractamento t r a k t a m e n t o |
+tractar t r a k t a r |
+tractate t r a k t a t e |
+tractava t r a k t a v a |
+tradition t r a d i t j o n |
+traducer t r a d u ts e r |
+traduceva t r a d u ts e v a |
+traduction t r a d u k t j o n |
+traffico t r a f i k o |
+trahe t r a h e |
+traher t r a h e r |
+traino t r a i n o |
+trainos t r a i n o s |
+tramways t r a m w e i s |
+trance t r a n ts e |
+tranquille t r a ŋ k w i l e |
+trans t r a n s |
+transformata t r a n s f o r m a t a |
+transi t r a n s i |
+transir t r a n s i r |
+translocava t r a n s l o k a v a |
+transmission t r a n s m i s j o n |
+transmitter t r a n s m i t e r |
+transporto t r a n s p o r t o |
+transversa t r a n s v e r s a |
+transversar t r a n s v e r s a r |
+transversate t r a n s v e r s a t e |
+transverso t r a n s v e r s o |
+travalio t r a v a l j o |
+tremor t r e m o r |
+tremulante t r e m u l a n t e |
+trencha t r e n tʃ a |
+trenchate t r e n tʃ a t e |
+trenta t r e n t a |
+tres t r e s |
+tresor t r e s o r |
+tres-phases t r e s f a s e s |
+triathlon t r j a t l o n |
+tribo t r i b o |
+tribos t r i b o s |
+triste t r i s t e |
+trompettas t r o m p e t a s |
+tropic t r o p i k |
+tropico t r o p i k o |
+troppo t r o p o |
+trova t r o v a |
+trovar t r o v a r |
+trovara t r o v a r a |
+trovate t r o v a t e |
+trovava t r o v a v a |
+tsunami t s u n a m i |
+tu t u |
+tuberculina t u b e r k u l i n a |
+tue t u e |
+turbulentia t u r b u l e n t j a |
+turre t u r e |
+tussiva t u s i v a |
+tux t u k s |
+typhon t i f o n |
+typo t i p o |
+ubi u b i |
+ubique u b i k w e |
+ulle u l e |
+ultime u l t i m e |
+ultra u l t r a |
+umbra u m b r a |
+un u n |
+undas u n d a s |
+ungulas u n ɡ u l a s |
+unic u n i k |
+unicyclo u n i ts i k l o |
+union u n j o n |
+unite u n i t e |
+universal u n i v e r s a l |
+universitate u n i v e r s i t a t e |
+universos u n i v e r s o s |
+uno u n o |
+urban u r b a n |
+urbe u r b e |
+ureva u r e v a |
+urgentemente u r ɡ e n t e m e n t e |
+urso u r s o |
+ursos u r s o s |
+usa u s a |
+usar u s a r |
+usate u s a t e |
+usator u s a t o r |
+usatores u s a t o r e s |
+usava u s a v a |
+usque u s k e |
+usualmente u s w a l m e n t e |
+utile u t i l e |
+utilisa u t i l i s a |
+utilitate u t i l i t a t e |
+va v a |
+vacantias v a k a n t j a s |
+vaccas v a k a s |
+vacue v a k w e |
+vade v a d e |
+vader v a d e r |
+vadera v a d e r a |
+vadeva v a d e v a |
+vadite v a d i t e |
+vale v a l e |
+valer v a l e r |
+validar v a l i d a r |
+valide v a l i d e |
+valise v a l i z |
+valises v a l i z s |
+valle v a l e |
+valor v a l o r |
+vamos v a m o s |
+vanadium v a n a d j u m |
+variabiles v a r j a b i l e s |
+varie v a r j e |
+vaste v a s t e |
+vegan v e ɡ a n |
+vela v e l a |
+velia v e l j a |
+veliante v e l j a n t e |
+veloce v e l o ts e |
+velocemente v e l o ts e m e n t e |
+velocitate v e l o ts i t a t e |
+venas v e n a s |
+vende v e n d e |
+vendita v e n d i t a |
+vendite v e n d i t e |
+venerdi v e n e r d i |
+venetia v e n e t j a |
+veni v e n i |
+venir v e n i r |
+venira v e n i r a |
+venite v e n i t e |
+veniva v e n i v a |
+ventilator v e n t i l a t o r |
+vento v e n t o |
+ver v e r |
+verbal v e r b a l |
+verde v e r d e |
+verduras v e r d u r a s |
+vergonia v e r ɡ o n j a |
+veritate v e r i t a t e |
+vermente v e r m e n t e |
+vernisse v e r n i s e |
+versa v e r s a |
+version v e r s j o n |
+verso v e r s o |
+vertiginose v e r t i ɡ i n o s e |
+vespere v e s p e r e |
+veste v e s t e |
+vestibular v e s t i b u l a r |
+vestigios v e s t i ɡ j o s |
+vestimentos v e s t i m e n t o s |
+vestir v e s t i r |
+vestite v e s t i t e |
+vetere v e t e r e |
+vetule v e t u l e |
+vetulessa v e t u l e s a |
+via v i a |
+viage v j a ʒ e |
+viagiar v j a ʒ a r |
+viagiava v j a ɡ j a v a |
+vias v i a s |
+vice v i ts e |
+vices v i ts e s |
+vicinitate v i ts i n i t a t e |
+vicino v i ts i n o |
+victimas v i k t i m a s |
+vide v i d e |
+video v i d e o |
+vider v i d e r |
+videva v i d e v a |
+vidite v i d i t e |
+vigilar v i ɡ i l a r |
+vince v i n ts e |
+vincera v i n ts e r a |
+vincite v i n ts i t e |
+vincitos v i n ts i t o s |
+vindicar v i n d i k a r |
+vindicate v i n d i k a t e |
+vino v i n o |
+vinti v i n t i |
+violar v j o l a r |
+violentemente v j o l e n t e m e n t e |
+violin v j o l i n |
+virga v i r ɡ a |
+virginia v i r ɡ i n j a |
+virna v i r n a |
+virtute v i r t u t e |
+virus v i r u s |
+visage v i s a ʒ e |
+vision v i s j o n |
+visita v i s i t a |
+visitar v i s i t a r |
+visitate v i s i t a t e |
+visitava v i s i t a v a |
+vista v i s t a |
+visualisate v i s w a l i s a t e |
+vita v i t a |
+vital v i t a l |
+vitas v i t a s |
+vitello v i t e l o |
+vitiose v i t j o s e |
+vitro v i t r o |
+vive v i v e |
+viver v i v e r |
+vivite v i v i t e |
+voca v o k a |
+vocabulos v o k a b u l o s |
+vocal v o k a l |
+vocava v o k a v a |
+voce v o ts e |
+voces v o ts e s |
+vodka v o d k a |
+voga v o ɡ a |
+voice v o ɪ ts e |
+vola v o l a |
+vole v o l e |
+voler v o l e r |
+volerea v o l e r e a |
+voleva v o l e v a |
+volo v o l o |
+volta v o l t a |
+volumine v o l u m i n e |
+volumines v o l u m i n e s |
+voluntarios v o l u n t a r j o s |
+voluntate v o l u n t a t e |
+volveva v o l v e v a |
+vos v o s |
+vostre v o s t r e |
+votantes v o t a n t e s |
+voto v o t o |
+voyager v o j a ɡ e r |
+vulcano v u l k a n o |
+vulnere v u l n e r e |
+vulpe v u l p e |
+washington w a ʃ i ŋ ɡ t o n |
+web w e b |
+week-end w e e k e n d |
+west w e s t |
+western w e s t e r n |
+whatsapp w h a t s a p |
+wikidata w i k i d a t a |
+wikipedia w i k i p e d j a |
+wow w o w |
+yankee j a n k i |
+yen j e n |
+yoga j o ɡ a |
+york j o r k |
+zamenhof z a m e n h o f |
+zebra z e b r a |
+zero z e r o |
+zona z o n a |
+zoologic z o o l o ɡ i k |
