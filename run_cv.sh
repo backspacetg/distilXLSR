@@ -1,7 +1,7 @@
 set -ue
-fairseq=$HOME/fairseq
-model_label=xlsr53
-lang=el
+
+model_label=xlsr53 # xlsr53 or xlsr128
+lang=el # languages
 w2v_path=${PATH_TO_THE_PRE_TRAINED_MODEL.pt}
 save_dir=${PATH_TO_SAVE_MODELS.pt}
 
