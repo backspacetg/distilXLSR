@@ -19,11 +19,11 @@ Our code are based on the [fairseq](https://github.com/facebookresearch/fairseq)
 
 The selected 10-hour subsets of 5 languages in the Common Voice dataset (Version 5.1) are provided in the `data` folder.  You can select the mp3 samples according to the `tsv` files, convert them to wav format, and save them in paths like `$output_path/$language/wav/$file_name` such as `/mnt/data/el/wav/common_voice_el_20583960.wav`. Please remember to change the first line of the `tsv` files which provides the root folder of all the auditions. 
 
-#### Training
+##### Training
 
 Run `run_cv.sh` to fine-tune the DisilXLSR models on 5 languages. Training will take about 5 hours on a RTX-3090 GPU. 
 
-#### Decoding
+##### Decoding
 
 You can download the language models from the link in the table above. Unzip the models. 
 Run stage 1 in `decode.sh` to decode the models. The [Sclite toolkit](https://github.com/usnistgov/SCTK) is used for scoring, so we should format the transcription files for Sclite, and stage 2 in `decode.sh` does this. After scoring, the results are printed on the screen. 
