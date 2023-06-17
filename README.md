@@ -17,7 +17,7 @@ Our code are based on the [fairseq](https://github.com/facebookresearch/fairseq)
 
 ##### Formatting Datasets
 
-The selected 10-hour subsets of 5 languages in the Common Voice dataset (Version 5.1) are provided in the `data` folder.  You can select the mp3 samples according to the `tsv` files, convert them to wav format, and save them in paths like `$output_path/$language/wav/$file_name` such as `/mnt/data/el/wav/common_voice_el_20583960.wav`. Please remember to change the first line of the `tsv` files which provides the root folder of all the auditions. 
+The selected 10-hour subsets of 5 languages in the Common Voice dataset (Version 5.1) are provided in the `data` folder.  You can select the mp3 samples according to the `tsv` files, convert them to wav format, and save them in paths like `$output_path/$language/wav/$file_name` such as `/mnt/data/el/wav/common_voice_el_20583960.wav`. Please remember to change the first line of the `tsv` files which provides the root folder of all the samples. 
 
 ##### Training
 
