@@ -333,10 +333,6 @@ class DistilXLSR(nn.Module):
         ret_conv: bool = False,
         output_layer: Optional[int] = None,
         ret_layer_results: bool = False,
-        head_z=None, 
-        head_layer_z=None, 
-        intermediate_z=None, 
-        mlp_z=None,
         ret_attn=False
     ):
 
@@ -375,10 +371,6 @@ class DistilXLSR(nn.Module):
             x,
             padding_mask=padding_mask,
             layer=None if output_layer is None else output_layer - 1,
-            head_z=head_z, 
-            head_layer_z=head_layer_z, 
-            intermediate_z=intermediate_z, 
-            mlp_z=mlp_z,
             ret_attn=ret_attn
         )
 

@@ -124,7 +124,7 @@ class DistilXLSRCTCConfig(FairseqDataclass):
     blank_weight: float = 0
     blank_mode: str = "add"
 
-@register_model("distilxlsr_ctc", dataclass=DistilXLSRConfig)
+@register_model("distilxlsr_ctc", dataclass=DistilXLSRCTCConfig)
 class DistilXLSRCTC(BaseFairseqModel):
     def upgrade_state_dict_named(self, state_dict, name):
         super().upgrade_state_dict_named(state_dict, name)
@@ -241,7 +241,7 @@ class DistilXLSRCTC(BaseFairseqModel):
                 layer_hiddens.append(final_output)
             else:
                 layer_hiddens = [i[0] for i in layer_results]
-            x = layer_hiddens[self.cfg.encoder_last_layer]
+            x = layer_hiddens[-1]
 
             # B x T x C -> T x B x C
             x = x.transpose(0, 1)

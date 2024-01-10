@@ -52,7 +52,6 @@ lr_scheduler:
 model:
   _name: distilxlsr_ctc
   w2v_path: ???
-  encoder_last_layer: ???
   prune_model: true
   apply_mask: true
   mask_prob: 0.55

@@ -15,7 +15,7 @@ from torch import Tensor, nn
 from torch.nn import Parameter
 import torch.nn.functional as F
 
-# 翻转最后2维
+
 class TransposeLast(nn.Module):
     def __init__(self, deconstruct_idx=None):
         super().__init__()
@@ -26,8 +26,7 @@ class TransposeLast(nn.Module):
             x = x[self.deconstruct_idx]
         return x.transpose(-2, -1)
 
-# 似乎是为了半精度训练设置的
-# 把 input weight bias 都设置成浮点数
+
 class Fp32LayerNorm(nn.LayerNorm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -42,7 +41,7 @@ class Fp32LayerNorm(nn.LayerNorm):
         )
         return output.type_as(input)
 
-# 同上
+
 class Fp32GroupNorm(nn.GroupNorm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -57,7 +56,7 @@ class Fp32GroupNorm(nn.GroupNorm):
         )
         return output.type_as(input)
 
-# 前向正常传播 后向乘上固定系数
+
 class GradMultiply(torch.autograd.Function):
     @staticmethod
     def forward(ctx, x, scale):
@@ -70,7 +69,6 @@ class GradMultiply(torch.autograd.Function):
         return grad * ctx.scale, None
 
 
-# 卷积用的 多则删除
 class SamePad(nn.Module):
     def __init__(self, kernel_size, causal=False):
         super().__init__()
@@ -84,7 +82,6 @@ class SamePad(nn.Module):
             x = x[:, :, : -self.remove]
         return x
 
-# swish激活函数
 class Swish(nn.Module):
     """Swish function
     """
@@ -98,7 +95,6 @@ class Swish(nn.Module):
         return x * self.act(x)
 
 
-# GLU激活函数+线性层
 class GLU_Linear(nn.Module):
     def __init__(self, input_dim, output_dim, glu_type="sigmoid", bias_in_glu=True):
         super(GLU_Linear, self).__init__()
@@ -404,8 +400,6 @@ class MultiheadAttention(nn.Module):
             nn.init.xavier_uniform_(self.v_proj.weight)
             nn.init.xavier_uniform_(self.q_proj.weight)
 
-        # 其实是有这个out_proj层的
-        # 如果想剪枝hidden dim就需要
         nn.init.xavier_uniform_(self.out_proj.weight)
         if self.out_proj.bias is not None:
             nn.init.constant_(self.out_proj.bias, 0.0)
