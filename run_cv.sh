@@ -1,5 +1,6 @@
 set -ue
 
+
 model_label=xlsr53 # xlsr53 or xlsr128
 lang=el # languages
 w2v_path=${PATH_TO_THE_PRE_TRAINED_MODEL.pt}
